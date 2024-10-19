@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC20-noteBook-newRegister-creditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>04b6e86e-9ed5-4982-b224-1437743060b4</testCaseGuid>
+</TestCaseEntity>

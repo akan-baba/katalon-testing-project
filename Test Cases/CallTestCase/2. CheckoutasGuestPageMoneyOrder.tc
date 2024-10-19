@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. CheckoutasGuestPageMoneyOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9845e7f5-f2f3-48e3-b24c-c69d184a0277</testCaseGuid>
+</TestCaseEntity>

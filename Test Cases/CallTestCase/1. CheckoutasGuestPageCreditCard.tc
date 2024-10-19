@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. CheckoutasGuestPageCreditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3243385-ec6b-463d-8254-f001f27e0cfa</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC22-noteBook-checkout-as-guest-creditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ad6254c-c30d-4927-8709-35a7136dab28</testCaseGuid>
+</TestCaseEntity>

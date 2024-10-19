@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC19-noteBook-newRegister-moneyOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9bb83ff9-4e00-4ff5-9bb7-f08517735960</testCaseGuid>
+</TestCaseEntity>

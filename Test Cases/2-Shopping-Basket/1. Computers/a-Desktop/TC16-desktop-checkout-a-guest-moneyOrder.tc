@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC16-desktop-checkout-a-guest-moneyOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>912bc09f-7185-4d8c-9825-92b903c41d0e</testCaseGuid>
+</TestCaseEntity>

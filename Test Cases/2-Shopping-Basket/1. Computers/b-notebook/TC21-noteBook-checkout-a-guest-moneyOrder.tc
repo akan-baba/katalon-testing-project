@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC21-noteBook-checkout-a-guest-moneyOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1467c294-2eb4-4386-9d22-4633d8886a07</testCaseGuid>
+</TestCaseEntity>

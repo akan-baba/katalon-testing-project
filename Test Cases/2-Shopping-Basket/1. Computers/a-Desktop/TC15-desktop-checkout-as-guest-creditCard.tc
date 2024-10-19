@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC15-desktop-checkout-as-guest-creditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d592671e-8932-474a-9b68-03afb9b3f962</testCaseGuid>
+</TestCaseEntity>
