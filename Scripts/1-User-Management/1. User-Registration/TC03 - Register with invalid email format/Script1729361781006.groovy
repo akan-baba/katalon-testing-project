@@ -41,3 +41,5 @@ WebUI.click(findTestObject('2. User-Registration/9. input__register-button'), Fa
 
 WebUI.verifyTextPresent('Wrong email', false)
 
+WebUI.closeBrowser()
+

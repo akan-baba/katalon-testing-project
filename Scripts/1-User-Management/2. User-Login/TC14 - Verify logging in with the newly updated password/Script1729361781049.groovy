@@ -48,3 +48,5 @@ WebUI.click(findTestObject('1. User-Login/a15. change-password-button'), Failure
 
 WebUI.verifyTextPresent('Password was changed', false)
 
+WebUI.closeBrowser()
+

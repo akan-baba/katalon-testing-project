@@ -31,3 +31,5 @@ WebUI.click(findTestObject('1. User-Login/9. recover-send-email-btn'))
 
 WebUI.verifyTextPresent('Email with instructions has been sent to you.', false)
 
+WebUI.closeBrowser()
+

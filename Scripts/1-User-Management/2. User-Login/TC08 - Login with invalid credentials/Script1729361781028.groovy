@@ -32,3 +32,5 @@ WebUI.click(findTestObject('1. User-Login/6.  login-button'))
 
 WebUI.verifyTextPresent('Login was unsuccessful. Please correct the errors and try again.', false)
 
+WebUI.closeBrowser()
+

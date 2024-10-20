@@ -60,3 +60,5 @@ WebUI.click(findTestObject('2. User-Registration/9. input__register-button'))
 
 WebUI.verifyTextPresent('Your registration completed', false)
 
+WebUI.closeBrowser()
+

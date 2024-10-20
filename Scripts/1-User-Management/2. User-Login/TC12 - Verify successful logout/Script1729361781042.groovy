@@ -34,3 +34,5 @@ WebUI.click(findTestObject('1. User-Login/7. a_Log out'))
 
 WebUI.verifyTextPresent('Register', false)
 
+WebUI.closeBrowser()
+

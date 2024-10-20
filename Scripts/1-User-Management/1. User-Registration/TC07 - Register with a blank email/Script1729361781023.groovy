@@ -41,3 +41,5 @@ WebUI.click(findTestObject('2. User-Registration/9. input__register-button'), Fa
 
 WebUI.verifyTextPresent('Email is required.', false)
 
+WebUI.closeBrowser()
+

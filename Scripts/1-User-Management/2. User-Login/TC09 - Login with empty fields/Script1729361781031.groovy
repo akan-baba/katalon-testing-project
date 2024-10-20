@@ -32,3 +32,5 @@ WebUI.click(findTestObject('1. User-Login/6.  login-button'))
 
 WebUI.verifyTextPresent('No customer account found', false)
 
+WebUI.closeBrowser()
+

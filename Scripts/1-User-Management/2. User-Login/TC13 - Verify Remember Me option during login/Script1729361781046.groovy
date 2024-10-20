@@ -39,3 +39,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
+WebUI.closeBrowser()
+
