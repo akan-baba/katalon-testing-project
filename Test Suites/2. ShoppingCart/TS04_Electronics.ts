@@ -15,28 +15,28 @@
       <guid>f0dbc5d9-55ba-428e-800b-7a29279e8af1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/2-Shopping-Basket/2. Electronics/TC24-smartphone-checkout-as-guest-creditCard</testCaseId>
+      <testCaseId>Test Cases/2-Shopping-Basket/2. Electronics/TC23-smartphone-checkout-as-guest-creditCard</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>bf1afeb1-9d0e-48c6-95e5-5d4c1fcb420b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/2-Shopping-Basket/2. Electronics/TC25-smartphone-checkout-a-guest-moneyOrder</testCaseId>
+      <testCaseId>Test Cases/2-Shopping-Basket/2. Electronics/TC24-smartphone-checkout-a-guest-moneyOrder</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>36af5b1e-683f-4897-9049-ca3adbdabebb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/2-Shopping-Basket/2. Electronics/TC26-smartphone-newRegister-creditCard</testCaseId>
+      <testCaseId>Test Cases/2-Shopping-Basket/2. Electronics/TC25-smartphone-newRegister-creditCard</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>8203321d-64eb-47c8-9851-968ddf17b064</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/2-Shopping-Basket/2. Electronics/TC27-smartphone-newRegister-moneyOrder</testCaseId>
+      <testCaseId>Test Cases/2-Shopping-Basket/2. Electronics/TC26-smartphone-newRegister-moneyOrder</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

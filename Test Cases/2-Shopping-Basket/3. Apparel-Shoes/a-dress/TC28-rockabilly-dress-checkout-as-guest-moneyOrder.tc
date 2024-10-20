@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC31-rockabilly-dress-newRegister-moneyOrder</name>
+   <name>TC28-rockabilly-dress-checkout-as-guest-moneyOrder</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>fb8ec5e8-b336-413c-a582-9c3fa9da85a1</testCaseGuid>
+   <testCaseGuid>05834df7-b431-4f1b-b507-6080ed6a11f9</testCaseGuid>
 </TestCaseEntity>

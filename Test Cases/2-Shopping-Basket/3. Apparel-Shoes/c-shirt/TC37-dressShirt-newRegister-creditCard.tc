@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC28-rockabilly-dress-checkout-as-guest-creditCard</name>
+   <name>TC37-dressShirt-newRegister-creditCard</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>af5c0302-c31e-4ba8-a847-627fbbbe6524</testCaseGuid>
+   <testCaseGuid>88f3dfa6-2bb3-4b50-b668-1c0d36a72bf4</testCaseGuid>
 </TestCaseEntity>

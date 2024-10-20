@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC35-shoes-newRegister-moneyOrder</name>
+   <name>TC30-rockabilly-dress-newRegister-moneyOrder</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>da648388-8a5a-4efc-af77-b248c863692e</testCaseGuid>
+   <testCaseGuid>fb8ec5e8-b336-413c-a582-9c3fa9da85a1</testCaseGuid>
 </TestCaseEntity>

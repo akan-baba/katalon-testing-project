@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC38-dressShirt-newRegister-creditCard</name>
+   <name>TC36-dressShirt-checkout-as-guest-moneyOrder</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>88f3dfa6-2bb3-4b50-b668-1c0d36a72bf4</testCaseGuid>
+   <testCaseGuid>b39b09fb-cb2f-4144-b289-127a46cc78b9</testCaseGuid>
 </TestCaseEntity>
