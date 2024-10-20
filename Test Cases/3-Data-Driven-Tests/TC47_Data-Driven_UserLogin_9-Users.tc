@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC47_Data-Driven_UserLogin_9-Users</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f4f91d81-f26e-4ed7-a77d-b9aa1697a17a</testCaseGuid>
+</TestCaseEntity>

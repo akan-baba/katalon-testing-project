@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC48_RegisterUser_Data-Driven_RandomEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec6c82de-de93-4df2-8ba4-90eff4425676</testCaseGuid>
+</TestCaseEntity>

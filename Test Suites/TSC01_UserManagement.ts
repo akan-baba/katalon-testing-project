@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/1. UserManagement/TS01_User_Registration</testSuiteEntity>
+         <testSuiteEntity>Test Suites/1. UserManagement/TS01_User_Registration_Tests</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Chrome (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/1. UserManagement/TS02_User_Login</testSuiteEntity>
+         <testSuiteEntity>Test Suites/1. UserManagement/TS02_User_Login_Tests</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,7 +35,7 @@
             <runConfigurationId>Firefox (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/1. UserManagement/TS01_User_Registration</testSuiteEntity>
+         <testSuiteEntity>Test Suites/1. UserManagement/TS01_User_Registration_Tests</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -45,7 +45,7 @@
             <runConfigurationId>Firefox (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/1. UserManagement/TS02_User_Login</testSuiteEntity>
+         <testSuiteEntity>Test Suites/1. UserManagement/TS02_User_Login_Tests</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

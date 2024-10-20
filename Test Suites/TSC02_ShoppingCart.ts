@@ -15,7 +15,7 @@
             <runConfigurationId>Chrome (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/2. ShoppingCart/TS03_Computers</testSuiteEntity>
+         <testSuiteEntity>Test Suites/2. ShoppingCart/TS03_Computers_Tests</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Chrome (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/2. ShoppingCart/TS04_Electronics</testSuiteEntity>
+         <testSuiteEntity>Test Suites/2. ShoppingCart/TS04_Electronics_Tests</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -35,7 +35,7 @@
             <runConfigurationId>Chrome (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/2. ShoppingCart/TS05_ApparrelShoes</testSuiteEntity>
+         <testSuiteEntity>Test Suites/2. ShoppingCart/TS05_Apparel_Shoes_Tests</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -45,7 +45,7 @@
             <runConfigurationId>Chrome (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/2. ShoppingCart/TS06_Jewellery</testSuiteEntity>
+         <testSuiteEntity>Test Suites/2. ShoppingCart/TS06_Jewellery_Tests</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -55,7 +55,7 @@
             <runConfigurationId>Firefox (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/2. ShoppingCart/TS03_Computers</testSuiteEntity>
+         <testSuiteEntity>Test Suites/2. ShoppingCart/TS03_Computers_Tests</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -65,7 +65,7 @@
             <runConfigurationId>Firefox (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/2. ShoppingCart/TS04_Electronics</testSuiteEntity>
+         <testSuiteEntity>Test Suites/2. ShoppingCart/TS04_Electronics_Tests</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -75,7 +75,7 @@
             <runConfigurationId>Firefox (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/2. ShoppingCart/TS05_ApparrelShoes</testSuiteEntity>
+         <testSuiteEntity>Test Suites/2. ShoppingCart/TS05_Apparel_Shoes_Tests</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -85,7 +85,7 @@
             <runConfigurationId>Firefox (headless)</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/2. ShoppingCart/TS06_Jewellery</testSuiteEntity>
+         <testSuiteEntity>Test Suites/2. ShoppingCart/TS06_Jewellery_Tests</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
