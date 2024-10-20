@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteCollectionEntity>
-   <description></description>
+   <description>End to end test suite collection</description>
    <name>TSC03_Full-e2e-Tests</name>
    <tag></tag>
    <delayBetweenInstances>0</delayBetweenInstances>

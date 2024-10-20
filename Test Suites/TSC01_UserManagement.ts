@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteCollectionEntity>
-   <description></description>
+   <description>User management suite collection</description>
    <name>TSC01_UserManagement</name>
    <tag></tag>
    <delayBetweenInstances>0</delayBetweenInstances>

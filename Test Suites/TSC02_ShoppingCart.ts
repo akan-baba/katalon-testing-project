@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteCollectionEntity>
-   <description></description>
+   <description>Shopping cart suite collection</description>
    <name>TSC02_ShoppingCart</name>
    <tag></tag>
    <delayBetweenInstances>0</delayBetweenInstances>
