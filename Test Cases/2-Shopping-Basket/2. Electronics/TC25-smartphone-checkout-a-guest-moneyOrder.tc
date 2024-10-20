@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC25-smartphone-checkout-a-guest-moneyOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3d1767fc-f7a4-4bf2-821a-ae36bc6133bf</testCaseGuid>
+</TestCaseEntity>

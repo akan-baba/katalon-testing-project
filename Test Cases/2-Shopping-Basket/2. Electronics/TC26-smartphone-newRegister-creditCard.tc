@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC26-smartphone-newRegister-creditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce4ce525-aca1-499e-8a2b-e7a3411be134</testCaseGuid>
+</TestCaseEntity>
