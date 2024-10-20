@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC36-dressShirt-checkout-as-guest-creditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fc66a336-901b-4524-b417-d7c4e324bef0</testCaseGuid>
+</TestCaseEntity>

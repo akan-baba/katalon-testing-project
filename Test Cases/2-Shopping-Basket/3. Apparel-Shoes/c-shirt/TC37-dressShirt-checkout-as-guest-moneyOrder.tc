@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC37-dressShirt-checkout-as-guest-moneyOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b39b09fb-cb2f-4144-b289-127a46cc78b9</testCaseGuid>
+</TestCaseEntity>

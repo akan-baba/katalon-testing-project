@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC29-rockabilly-dress-checkout-as-guest-moneyOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>05834df7-b431-4f1b-b507-6080ed6a11f9</testCaseGuid>
+</TestCaseEntity>

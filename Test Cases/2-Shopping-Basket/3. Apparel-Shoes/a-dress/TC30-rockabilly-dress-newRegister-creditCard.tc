@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC30-rockabilly-dress-newRegister-creditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fdb5ad2c-1778-45d5-a93e-8e89e43d16be</testCaseGuid>
+</TestCaseEntity>

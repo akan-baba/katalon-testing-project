@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC34-shoes-newRegister-creditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ea5d7776-f14b-4d7a-9271-b5d60522cef3</testCaseGuid>
+</TestCaseEntity>

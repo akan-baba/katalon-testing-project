@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC28-rockabilly-dress-checkout-as-guest-creditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>af5c0302-c31e-4ba8-a847-627fbbbe6524</testCaseGuid>
+</TestCaseEntity>

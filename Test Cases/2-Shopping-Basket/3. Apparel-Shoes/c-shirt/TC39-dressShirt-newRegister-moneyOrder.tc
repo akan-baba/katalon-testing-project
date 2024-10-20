@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC39-dressShirt-newRegister-moneyOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54246e02-61f0-4f75-85e7-8fb68cd1b74f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC32-shoes-checkout-as-guest-creditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b75c735e-e404-4540-b602-a95c5d57f071</testCaseGuid>
+</TestCaseEntity>
