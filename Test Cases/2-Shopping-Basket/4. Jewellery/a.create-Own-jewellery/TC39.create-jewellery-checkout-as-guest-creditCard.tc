@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>42.create-jewellery-newRegister-moneyOrder</name>
+   <name>TC39.create-jewellery-checkout-as-guest-creditCard</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>1847d779-31aa-4772-8fc2-cf79ac0e3cc6</testCaseGuid>
+   <testCaseGuid>a900e828-6c14-44df-9dc9-1384f181c6d1</testCaseGuid>
 </TestCaseEntity>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>39.create-jewellery-checkout-as-guest-creditCard</name>
+   <name>TC45.black-White-diamond-newRegister-creditCard</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>a900e828-6c14-44df-9dc9-1384f181c6d1</testCaseGuid>
+   <testCaseGuid>42eee1c2-ff25-4b06-9d00-bd787574d44b</testCaseGuid>
 </TestCaseEntity>

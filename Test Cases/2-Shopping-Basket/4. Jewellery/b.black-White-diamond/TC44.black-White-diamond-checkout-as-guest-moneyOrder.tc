@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>40.create-jewellery-checkout-as-guest-moneyOrder</name>
+   <name>TC44.black-White-diamond-checkout-as-guest-moneyOrder</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>706c2ced-4bee-40ae-8c9e-3b19a44ab092</testCaseGuid>
+   <testCaseGuid>a9760b62-e7b0-4ccf-91be-de960d199441</testCaseGuid>
 </TestCaseEntity>

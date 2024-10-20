@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC46.black-White-diamond-newRegister-moneyOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d35e5b5f-64ff-42c7-bb74-e5feca10e3c4</testCaseGuid>
+</TestCaseEntity>

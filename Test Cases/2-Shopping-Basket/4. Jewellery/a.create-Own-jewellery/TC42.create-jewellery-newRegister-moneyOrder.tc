@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC42.create-jewellery-newRegister-moneyOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1847d779-31aa-4772-8fc2-cf79ac0e3cc6</testCaseGuid>
+</TestCaseEntity>
