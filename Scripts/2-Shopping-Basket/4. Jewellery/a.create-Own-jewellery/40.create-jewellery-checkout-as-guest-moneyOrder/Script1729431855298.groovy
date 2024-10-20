@@ -17,6 +17,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
+
+WebUI.click(findTestObject('8. Jewellery/1. a_Jewellery'))
+
 WebUI.click(findTestObject('8. Jewellery/2. createOwn.img'))
 
 WebUI.selectOptionByValue(findTestObject('8. Jewellery/3. select_material'), '46', false)
