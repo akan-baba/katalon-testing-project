@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC50_User_Login_With_Valid_Variable_Data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>175caf8a-05a8-417d-853b-8cd20b165efb</testCaseGuid>
+</TestCaseEntity>
