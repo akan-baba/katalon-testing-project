@@ -25,4 +25,11 @@
       <testCaseId>Test Cases/4-Variable-Tests/TC52_Desktops-cart-with-invalid-creditCard</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>7a7f71e8-19fb-4cc9-aa9f-201510c6961a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/4-Variable-Tests/TC51_Desktops-cart-with-valid-creditCard</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
