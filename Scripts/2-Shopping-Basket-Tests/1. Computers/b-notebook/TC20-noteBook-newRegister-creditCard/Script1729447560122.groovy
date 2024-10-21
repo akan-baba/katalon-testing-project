@@ -39,5 +39,5 @@ WebUI.click(findTestObject('3. Computers/noteBook/8. termsofservice'), FailureHa
 
 WebUI.click(findTestObject('3. Computers/noteBook/9. Checkout'))
 
-WebUI.callTestCase(findTestCase('CallTestCase/3. newRegistrationCreditCard'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('CallTestCases/3. NewRegistrationCreditCard'), [:], FailureHandling.STOP_ON_FAILURE)
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC52_Desktops-cart-with-invalid-creditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>285dc86f-4f3c-4b08-8db8-ed4cf1565c85</testCaseGuid>
+</TestCaseEntity>

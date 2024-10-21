@@ -47,5 +47,5 @@ WebUI.click(findTestObject('3. Computers/Desktop/8. input_termsofservice'))
 
 WebUI.click(findTestObject('3. Computers/Desktop/9. button_Checkout'))
 
-WebUI.callTestCase(findTestCase('CallTestCase/2. CheckoutasGuestPageMoneyOrder'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('CallTestCases/2. CheckoutasGuestPageMoneyOrder'), [:], FailureHandling.STOP_ON_FAILURE)
 

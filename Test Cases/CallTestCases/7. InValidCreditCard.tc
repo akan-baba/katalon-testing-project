@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>3. newRegistrationCreditCard</name>
+   <name>7. InValidCreditCard</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>c1017aae-d88a-4bbd-a636-80e95ea85537</testCaseGuid>
+   <testCaseGuid>b9aeeca0-e26b-455e-918c-938b3cc03b3c</testCaseGuid>
 </TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC51_Desktops-cart-with-valid-creditCard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4d8db22c-34c6-4170-8f5c-0d67ba583b1a</testCaseGuid>
+</TestCaseEntity>

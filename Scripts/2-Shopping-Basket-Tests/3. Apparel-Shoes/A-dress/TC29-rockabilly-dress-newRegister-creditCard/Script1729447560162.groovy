@@ -35,5 +35,5 @@ WebUI.click(findTestObject('7. Apparel - Shoes/a13. termsofservice'))
 
 WebUI.click(findTestObject('7. Apparel - Shoes/a14. button_Checkout'))
 
-WebUI.callTestCase(findTestCase('CallTestCase/3. newRegistrationCreditCard'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('CallTestCases/3. NewRegistrationCreditCard'), [:], FailureHandling.STOP_ON_FAILURE)
 

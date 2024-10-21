@@ -24,7 +24,7 @@ WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 // Click on the register link/button
 WebUI.click(findTestObject('1. User-Login/1. a_Log in'))
 
-WebUI.setText(findTestObject('1. User-Login/2. input_Email'), GlobalVariable.Email)
+WebUI.setText(findTestObject('1. User-Login/2. input_Email'), GlobalVariable.email)
 
 WebUI.setText(findTestObject('1. User-Login/3. input_Password'), GlobalVariable.password)
 
