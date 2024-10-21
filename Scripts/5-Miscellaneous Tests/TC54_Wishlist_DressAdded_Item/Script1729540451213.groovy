@@ -21,14 +21,21 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
-// Click on the register link/button
-WebUI.click(findTestObject('1. User-Login/1. a_Log in'))
+WebUI.click(findTestObject('7. Apparel - Shoes/1. a_Apparel  Shoes'))
 
-WebUI.setText(findTestObject('1. User-Login/2. input_Email'), GlobalVariable.Email)
+WebUI.click(findTestObject('7. Apparel - Shoes/2. imgRockabillyDress'))
 
-WebUI.setText(findTestObject('1. User-Login/3. input_Password'), GlobalVariable.password)
+WebUI.click(findTestObject('a10. Miscellaneous Tests/1. dress-wishlist-button-5'))
 
-WebUI.click(findTestObject('1. User-Login/6.  login-button'))
+WebUI.click(findTestObject('a10. Miscellaneous Tests/4. span_Wishlist'))
 
-WebUI.verifyTextPresent('colleen@aol.com', false)
+'Verification that dress has been add to the wishlist'
+WebUI.verifyTextPresent('50\'s Rockabilly Polka Dot Top JR Plus Size', false)
+
+WebUI.click(findTestObject('a10. Miscellaneous Tests/5. removefromWishlist'))
+
+WebUI.click(findTestObject('a10. Miscellaneous Tests/5. updatecart'))
+
+'Verification that dress has been removed from wishlist'
+WebUI.verifyTextNotPresent('50\'s Rockabilly Polka Dot Top JR Plus Size', false)
 

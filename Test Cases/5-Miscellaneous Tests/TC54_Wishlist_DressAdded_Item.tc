@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC54_Wishlist_DressAdded_Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae4c6c5f-c7b2-4c18-94b3-8a7c3501417c</testCaseGuid>
+</TestCaseEntity>

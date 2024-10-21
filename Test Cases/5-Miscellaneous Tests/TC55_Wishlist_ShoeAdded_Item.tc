@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC55_Wishlist_ShoeAdded_Item</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>48ea3a41-66b7-4681-8e04-a90dcd947597</testCaseGuid>
+</TestCaseEntity>

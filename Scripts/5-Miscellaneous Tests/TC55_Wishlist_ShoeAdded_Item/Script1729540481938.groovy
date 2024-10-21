@@ -21,14 +21,21 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
-// Click on the register link/button
-WebUI.click(findTestObject('1. User-Login/1. a_Log in'))
+WebUI.click(findTestObject('7. Apparel - Shoes/1. a_Apparel  Shoes'))
 
-WebUI.setText(findTestObject('1. User-Login/2. input_Email'), GlobalVariable.Email)
+WebUI.click(findTestObject('7. Apparel - Shoes/3. imgShoes'))
 
-WebUI.setText(findTestObject('1. User-Login/3. input_Password'), GlobalVariable.password)
+WebUI.click(findTestObject('a10. Miscellaneous Tests/2. shoes-wishlist-button-28'))
 
-WebUI.click(findTestObject('1. User-Login/6.  login-button'))
+WebUI.click(findTestObject('a10. Miscellaneous Tests/4. span_Wishlist'))
 
-WebUI.verifyTextPresent('colleen@aol.com', false)
+'Verification that shoe has been add to the wishlist'
+WebUI.verifyTextPresent('Blue and green Sneaker', false)
+
+WebUI.click(findTestObject('a10. Miscellaneous Tests/5. removefromWishlist'))
+
+WebUI.click(findTestObject('a10. Miscellaneous Tests/5. updatecart'))
+
+'Verification that shoe has been removed from wishlist'
+WebUI.verifyTextNotPresent('Blue and green Sneaker', false)
 
