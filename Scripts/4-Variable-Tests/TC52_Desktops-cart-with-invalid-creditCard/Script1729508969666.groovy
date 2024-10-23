@@ -45,5 +45,5 @@ WebUI.click(findTestObject('3. Computers/Desktop/8. input_termsofservice'))
 
 WebUI.click(findTestObject('3. Computers/Desktop/9. button_Checkout'))
 
-WebUI.callTestCase(findTestCase('CallTestCases/7. InValidCreditCard'), [:], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('CallTestCases/7. InValidCreditCard-variable'), [:], FailureHandling.STOP_ON_FAILURE)
 

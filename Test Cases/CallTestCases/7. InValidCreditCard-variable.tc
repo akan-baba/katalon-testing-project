@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7. InValidCreditCard-variable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b9aeeca0-e26b-455e-918c-938b3cc03b3c</testCaseGuid>
+</TestCaseEntity>
