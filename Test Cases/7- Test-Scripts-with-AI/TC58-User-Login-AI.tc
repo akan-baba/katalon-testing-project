@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC58-User-Login-AI</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>09b4a505-5baa-417a-91af-28bbd7265671</testCaseGuid>
+</TestCaseEntity>
