@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>5. updatecart</name>
+   <name>5. Remove_removefromcart</name>
    <tag></tag>
-   <elementGuidId>d5e11709-738a-4170-870d-35c97b224413</elementGuidId>
+   <elementGuidId>f303af83-86d4-45d9-841b-a7b3454d1c24</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='updatecart']</value>
+         <value>//input[@name='removefromcart']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;updatecart&quot;]</value>
+         <value>input[name=&quot;removefromcart&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Update wishlist&quot;i]</value>
+         <value>input[name=&quot;removefromcart&quot;]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,70 +29,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>afc8c53f-95cb-4bb0-b08f-a5b3bfb2f27f</webElementGuid>
+      <webElementGuid>2016980c-b10a-4434-b3fd-abf2a6f70cf0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>21f6dc8b-b0e4-4e53-86c1-f63d35cc4a48</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>703249b5-0abf-42e4-a0f6-3c2f20a74cfa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>updatecart</value>
-      <webElementGuid>8f5e5db4-9427-4544-860e-8e4944c65282</webElementGuid>
+      <value>removefromcart</value>
+      <webElementGuid>6b1b2c03-1ad3-4775-ac24-3e432a9612bb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Update wishlist</value>
-      <webElementGuid>de87211d-d36f-473a-84c9-667e7f25e512</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>button-2 update-wishlist-button</value>
-      <webElementGuid>f7ce05b8-f108-41bf-845b-2adafc2fcab0</webElementGuid>
+      <value>4702888</value>
+      <webElementGuid>a3afffc5-8cd1-43dc-8b86-4959f6c44ca2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;center-1&quot;]/div[@class=&quot;page wishlist-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;wishlist-content&quot;]/form[1]/div[@class=&quot;buttons&quot;]/div[@class=&quot;common-buttons&quot;]/input[@class=&quot;button-2 update-wishlist-button&quot;]</value>
-      <webElementGuid>6b0422b3-8146-4c5c-8017-b360365a115e</webElementGuid>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;center-1&quot;]/div[@class=&quot;page wishlist-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;wishlist-content&quot;]/form[1]/table[@class=&quot;cart&quot;]/tbody[1]/tr[@class=&quot;cart-item-row&quot;]/td[@class=&quot;remove-from-cart&quot;]/input[1]</value>
+      <webElementGuid>024b8e99-df9b-4c27-be90-8ac2fee7311d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@name='updatecart']</value>
-      <webElementGuid>b3ebeb70-1b77-4034-ba5b-40d5f3fe0b9d</webElementGuid>
+      <value>//input[@name='removefromcart']</value>
+      <webElementGuid>c3692acf-fc89-42a7-aca0-b0b53e6360c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/input</value>
-      <webElementGuid>620c0a33-5f67-451f-a009-83fab5b8b26f</webElementGuid>
+      <value>//td/input</value>
+      <webElementGuid>1ed116ac-8540-422a-9661-9bf57a3a2733</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit' and @name = 'updatecart']</value>
-      <webElementGuid>ab190ddb-4b90-4cf6-abb2-32b8b5511f6b</webElementGuid>
+      <value>//input[@type = 'checkbox' and @name = 'removefromcart']</value>
+      <webElementGuid>dc4e878f-de79-4a8c-a9c4-b162a793151b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

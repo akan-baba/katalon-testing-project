@@ -25,16 +25,16 @@ WebUI.click(findTestObject('7. Apparel - Shoes/1. a_Apparel  Shoes'))
 
 WebUI.click(findTestObject('7. Apparel - Shoes/2. imgRockabillyDress'))
 
-WebUI.click(findTestObject('a10. Miscellaneous Tests/1. dress-wishlist-button-5'))
+WebUI.click(findTestObject('a10. Wishlist/1. add-to-wishlist-button-5'))
 
-WebUI.click(findTestObject('a10. Miscellaneous Tests/4. span_Wishlist'))
+WebUI.click(findTestObject('a10. Wishlist/4. span_Wishlist'))
 
 'Verification that dress has been add to the wishlist'
 WebUI.verifyTextPresent('50\'s Rockabilly Polka Dot Top JR Plus Size', false)
 
-WebUI.click(findTestObject('a10. Miscellaneous Tests/5. removefromWishlist'))
+WebUI.click(findTestObject('a10. Wishlist/5. Remove_removefromcart'))
 
-WebUI.click(findTestObject('a10. Miscellaneous Tests/5. updatecart'))
+WebUI.click(findTestObject('a10. Wishlist/5. Qty_updatecart'))
 
 'Verification that dress has been removed from wishlist'
 WebUI.verifyTextNotPresent('50\'s Rockabilly Polka Dot Top JR Plus Size', false)

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>1. dress-wishlist-button-5</name>
+   <name>1. add-to-wishlist-button-5</name>
    <tag></tag>
-   <elementGuidId>c6cb8307-5075-41fa-88ff-e19be9f4b1cf</elementGuidId>
+   <elementGuidId>f5889623-7f85-4299-9616-8e899d0cf553</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ebb8fc82-8c54-4e3f-b3a6-cd45556fcb47</webElementGuid>
+      <webElementGuid>4b2ea559-d73e-45ea-b111-0847ff5e8c20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>e4763836-ff86-4ef3-a168-b04f6da9c77e</webElementGuid>
+      <webElementGuid>9184d8e3-e738-46e0-873a-5196ad2027e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>add-to-wishlist-button-5</value>
-      <webElementGuid>cb05adf2-7ce1-48a9-8e15-c142b3628427</webElementGuid>
+      <webElementGuid>8776c422-bb45-45d0-9be2-dc34686bad75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button-2 add-to-wishlist-button</value>
-      <webElementGuid>13f5f708-0c0d-4467-aed3-4490272cc285</webElementGuid>
+      <webElementGuid>b137c550-6b24-4f13-9153-3bb596e37a7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Add to wishlist</value>
-      <webElementGuid>2fab4e7b-dbf3-4ad4-a1b2-1ec734e51987</webElementGuid>
+      <webElementGuid>e70682dd-d121-41ae-a7cf-4e5b2ccded71</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-productid</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>3260aba3-34eb-4dbe-9084-9309d24694db</webElementGuid>
+      <webElementGuid>591e0c8e-4caa-4523-9f77-048e6f274b70</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>onclick</name>
       <type>Main</type>
       <value>AjaxCart.addproducttocart_details('/addproducttocart/details/5/2', '#product-details-form');return false;</value>
-      <webElementGuid>06226a7f-66dc-4578-abb5-cd8a294635c7</webElementGuid>
+      <webElementGuid>086e09b5-83c0-43bf-bf20-547125ce7108</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;add-to-wishlist-button-5&quot;)</value>
-      <webElementGuid>30a3d105-7ef8-4481-9700-b4d20c0d9039</webElementGuid>
+      <webElementGuid>32a846e3-add7-4b08-8d61-44ff22671c77</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='add-to-wishlist-button-5']</value>
-      <webElementGuid>41e51f4a-df01-4521-b090-0e6a67634982</webElementGuid>
+      <webElementGuid>64eac64c-2006-48fe-91d1-6044570bb4a3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='product-details-form']/div/div/div[2]/div[6]/div/input[3]</value>
-      <webElementGuid>ff8b9d70-398e-4089-820d-b24d57481c77</webElementGuid>
+      <webElementGuid>958fbbb7-bca6-4848-9924-918250aedd6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[3]</value>
-      <webElementGuid>87fbfc9f-de0c-4172-920d-ac3861d48750</webElementGuid>
+      <webElementGuid>498a7e39-fb38-475e-bfd8-735f344b86ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'button' and @id = 'add-to-wishlist-button-5']</value>
-      <webElementGuid>6a901d66-e1b3-46e1-986b-3b18b513aaf7</webElementGuid>
+      <webElementGuid>244141d8-36c8-4b35-a3fb-66e719c629d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

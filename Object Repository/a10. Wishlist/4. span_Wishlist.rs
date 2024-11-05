@@ -3,7 +3,7 @@
    <description></description>
    <name>4. span_Wishlist</name>
    <tag></tag>
-   <elementGuidId>b0e9b56f-d466-4d59-a704-ee7070ce26db</elementGuidId>
+   <elementGuidId>3267c05e-98bf-4484-b90a-c85641a19b04</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -14,7 +14,7 @@
          <value>a.ico-wishlist > span.cart-label</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>0630934a-92ab-432c-8e01-ba04c8a2b764</webElementGuid>
+      <webElementGuid>1fcf4424-0bba-4c64-8bdc-aeb17e132297</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cart-label</value>
-      <webElementGuid>0039b54f-e653-4995-9614-6c04da7eb9a1</webElementGuid>
+      <webElementGuid>7864803c-dbe6-4702-911a-712dd104442f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Wishlist</value>
-      <webElementGuid>64156d08-00a8-496b-bbde-e08b5d27bd78</webElementGuid>
+      <webElementGuid>3f556db2-006f-43af-b181-af772280b762</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;header-links-wrapper&quot;]/div[@class=&quot;header-links&quot;]/ul[1]/li[4]/a[@class=&quot;ico-wishlist&quot;]/span[@class=&quot;cart-label&quot;]</value>
-      <webElementGuid>f6c7ad53-3d5b-403b-8c9f-31ffddf82686</webElementGuid>
+      <webElementGuid>4413c61c-9285-48b8-8386-6be98c608a52</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[1]/following::span[1]</value>
-      <webElementGuid>13dc67a4-908a-4843-9f24-b3e9e1831ad7</webElementGuid>
+      <webElementGuid>9265d47b-3dbd-4db1-9daf-5ed947fceefd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping cart'])[1]/following::span[2]</value>
-      <webElementGuid>46facdcd-4f69-49ba-bdef-f1cb8dfa86a3</webElementGuid>
+      <webElementGuid>68c667e0-bc3c-4ce5-9b3d-55e6f98f3d2e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(1)'])[1]/preceding::span[1]</value>
-      <webElementGuid>e9104c89-7023-413b-934b-1841d17cde54</webElementGuid>
+      <webElementGuid>9ad8bf64-d7ec-4f5e-90bb-cfcb260a48fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='You have no items in your shopping cart.'])[1]/preceding::span[2]</value>
-      <webElementGuid>fd086a6c-e894-4836-a801-d1b42f647520</webElementGuid>
+      <webElementGuid>98773267-1ff2-43c1-bf07-ddd8c0198f81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Wishlist']/parent::*</value>
-      <webElementGuid>c4ea39de-b05a-4b48-9a00-ef55295b553f</webElementGuid>
+      <webElementGuid>a8fff476-610c-4da5-9afc-49bb86dcd97c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a/span</value>
-      <webElementGuid>14d218b9-bfe1-4ffb-8647-c593fcf1cdf8</webElementGuid>
+      <webElementGuid>9b8449c6-2290-45b4-85ff-0caec3cdb407</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Wishlist' or . = 'Wishlist')]</value>
-      <webElementGuid>c2e8bdb1-5be3-4a4b-bc88-3ff721cfccea</webElementGuid>
+      <webElementGuid>ca5cda99-f12b-483b-b31b-c8d84b89d32e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

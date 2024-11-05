@@ -25,16 +25,16 @@ WebUI.click(findTestObject('7. Apparel - Shoes/1. a_Apparel  Shoes'))
 
 WebUI.click(findTestObject('7. Apparel - Shoes/3. imgShoes'))
 
-WebUI.click(findTestObject('a10. Miscellaneous Tests/2. shoes-wishlist-button-28'))
+WebUI.click(findTestObject('a10. Wishlist/2. shoes-wishlist-button-28'))
 
-WebUI.click(findTestObject('a10. Miscellaneous Tests/4. span_Wishlist'))
+WebUI.click(findTestObject('a10. Wishlist/4. span_Wishlist'))
 
 'Verification that shoe has been add to the wishlist'
 WebUI.verifyTextPresent('Blue and green Sneaker', false)
 
-WebUI.click(findTestObject('a10. Miscellaneous Tests/5. removefromWishlist'))
+WebUI.click(findTestObject('a10. Wishlist/5. Remove_removefromcart'))
 
-WebUI.click(findTestObject('a10. Miscellaneous Tests/5. updatecart'))
+WebUI.click(findTestObject('a10. Wishlist/5. Qty_updatecart'))
 
 'Verification that shoe has been removed from wishlist'
 WebUI.verifyTextNotPresent('Blue and green Sneaker', false)
