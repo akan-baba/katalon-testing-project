@@ -6,15 +6,15 @@
    <elementGuidId>7964a5d5-2b12-462b-8a62-c3ac1ba9c8ac</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='small-searchterms']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#small-searchterms</value>
       </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='small-searchterms']</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>CSS</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>dff617c9-abcd-49f3-a106-1ca5e9fc1e89</webElementGuid>
+      <webElementGuid>4958d9af-e79b-4972-b830-e37dc6772d5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>2b2abf8a-1962-47c7-aae7-e57ffe515445</webElementGuid>
+      <webElementGuid>16486795-622e-49e2-b9c3-e094ba95113c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>search-box-text ui-autocomplete-input</value>
-      <webElementGuid>292bc471-07c8-4681-ae57-eb3acd9f05da</webElementGuid>
+      <webElementGuid>20f32dc3-9df2-484b-a781-fc290e2eee10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>small-searchterms</value>
-      <webElementGuid>4b5e9aef-7fd8-4473-a862-62d53378b306</webElementGuid>
+      <webElementGuid>d06f0e5f-82aa-42fa-b2e4-524d9869de19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>923bc744-a2c9-4f32-816d-e8e119b953de</webElementGuid>
+      <webElementGuid>3cbc7360-9520-43ed-909d-4ccbd5e3d3e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Search store</value>
-      <webElementGuid>b8deeef1-f53a-4124-be7e-bc1f14030f94</webElementGuid>
+      <webElementGuid>ed99d219-b77c-4825-bdbb-559a3d890cbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>name</name>
       <type>Main</type>
       <value>q</value>
-      <webElementGuid>eb517be4-4fb6-40dd-89cf-f6eacd3da306</webElementGuid>
+      <webElementGuid>60c8c8d8-ac26-4ad6-ae83-55c39492ee0b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;small-searchterms&quot;)</value>
-      <webElementGuid>bc0ce97a-2bf1-45ac-8369-6bb910b206c8</webElementGuid>
+      <webElementGuid>f8edcc99-9a95-4188-913c-4deb91219018</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='small-searchterms']</value>
-      <webElementGuid>7dcda771-20a6-4e8e-91f1-fa7950cbe219</webElementGuid>
+      <webElementGuid>bf6013b4-0668-41df-8f19-6a85c5cc922c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>0fd0cf5f-7001-4da1-a7cb-9cab55f9452f</webElementGuid>
+      <webElementGuid>ceebca2e-e1f9-461e-b7d1-40691b3145df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,6 +109,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'small-searchterms' and @name = 'q']</value>
-      <webElementGuid>c573929d-53b1-4a30-8835-9e71505f465a</webElementGuid>
+      <webElementGuid>4a18a110-8fac-42a8-a24a-363dedaf9193</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
