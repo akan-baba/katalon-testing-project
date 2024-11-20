@@ -20,20 +20,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class contactUs {
-
+public class ChangePasswordKeyword {
+	
 	@Keyword
-	public void contactUsForm () {
-		WebUI.click(findTestObject('a11. Miscellaneous/1. Contact-Us/1. a_Contact us'))
-
-		WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/2. FullName'), 'Jane Doe')
-
-		WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/3. Email'), 'jane@aol.com')
-
-		WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/4. Enter_Enquiry'), 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua')
-
-		WebUI.click(findTestObject('a11. Miscellaneous/1. Contact-Us/5. Send-email'))
-
-		WebUI.verifyTextPresent('Your enquiry has been successfully sent to the store owner', false)
+	public void passwordChange() {
+		
+		WebUI.click(findTestObject('a11. Miscellaneous/5. ChangePassword/1. My account'))
+		
+		WebUI.click(findTestObject('a11. Miscellaneous/5. ChangePassword/2. Change password'))
+		
+		WebUI.setText(findTestObject('a11. Miscellaneous/5. ChangePassword/3. OldPassword'), 'red123')
+		
+		WebUI.setText(findTestObject('a11. Miscellaneous/5. ChangePassword/4. NewPassword'), 'red123')
+		
+		WebUI.setText(findTestObject('a11. Miscellaneous/5. ChangePassword/5. ConfirmNewPassword'), 'red123')
+		
+		WebUI.click(findTestObject('a11. Miscellaneous/5. ChangePassword/6. Change-password-button'))
+		
+		'Password changed'
+		WebUI.verifyTextPresent('Password was changed', false)
 	}
 }

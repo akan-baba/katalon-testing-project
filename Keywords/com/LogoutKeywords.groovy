@@ -20,20 +20,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class contactUs {
-
+public class LogoutKeywords {
 	@Keyword
-	public void contactUsForm () {
-		WebUI.click(findTestObject('a11. Miscellaneous/1. Contact-Us/1. a_Contact us'))
-
-		WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/2. FullName'), 'Jane Doe')
-
-		WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/3. Email'), 'jane@aol.com')
-
-		WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/4. Enter_Enquiry'), 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua')
-
-		WebUI.click(findTestObject('a11. Miscellaneous/1. Contact-Us/5. Send-email'))
-
-		WebUI.verifyTextPresent('Your enquiry has been successfully sent to the store owner', false)
+	public void userLogOut() {
+		WebUI.click(findTestObject('1. User-Login/7. a_Log out'))
+		WebUI.verifyTextPresent('Log in', false)
 	}
 }
