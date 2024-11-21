@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04 - Search Functionality Validation</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>365f8c6f-6d88-43f8-a7c3-5bd4f2c5005e</testCaseGuid>
+</TestCaseEntity>

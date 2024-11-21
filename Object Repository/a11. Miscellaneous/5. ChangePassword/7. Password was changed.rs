@@ -13,8 +13,16 @@
          <key>XPATH</key>
          <value>(.//*[normalize-space(text()) and normalize-space(.)='My account - Change password'])[1]/following::div[3]</value>
       </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+                    Password was changed
+                ' or . = '
+                    Password was changed
+                ')]</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
@@ -29,7 +37,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>87214f9f-afb2-4aa9-8bb3-dcedae9477cd</webElementGuid>
+      <webElementGuid>4b00e8fe-a97f-4380-8bb4-3d67b48ddb28</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>result</value>
-      <webElementGuid>158235bc-dcfa-43a0-9812-2970ffa30f5b</webElementGuid>
+      <webElementGuid>ac65fc83-b333-4a05-86c8-ed346b83845d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +55,7 @@
       <value>
                     Password was changed
                 </value>
-      <webElementGuid>48d93833-8e89-4ce8-9b03-8ab042bb6598</webElementGuid>
+      <webElementGuid>63b38dbd-890f-4836-bf62-7d0ac1f8f1a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +63,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;center-2&quot;]/form[1]/div[@class=&quot;page account-page change-password-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;result&quot;]</value>
-      <webElementGuid>4f1e1ed0-6ae7-4021-b7ac-af4afb2094ea</webElementGuid>
+      <webElementGuid>87adca5b-39b5-4dec-bd1e-cedefe8bff78</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My account - Change password'])[1]/following::div[3]</value>
-      <webElementGuid>56e92e65-8f4a-4b12-b52a-549631ae5900</webElementGuid>
+      <webElementGuid>44ee41d8-8707-4c0f-b3d9-647130147384</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Change password'])[1]/following::div[6]</value>
-      <webElementGuid>de3ab457-33f4-41cf-a4e4-6e684af0beec</webElementGuid>
+      <webElementGuid>3b02696f-f484-4c22-a8e9-bc85ec048030</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Old password:'])[1]/preceding::div[1]</value>
-      <webElementGuid>cc1bf204-5c63-4b27-a2d4-061c38aa0f01</webElementGuid>
+      <webElementGuid>0807db43-17ee-47fe-ac51-70b32836ea9a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::div[1]</value>
-      <webElementGuid>9c4743da-f782-4f80-b9fe-1457011b4a96</webElementGuid>
+      <webElementGuid>860bdf0e-1785-4e38-9022-ce3742e49d79</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Password was changed']/parent::*</value>
-      <webElementGuid>d7137135-610d-48ce-a413-564969dd25a8</webElementGuid>
+      <webElementGuid>26e75aa7-51cc-40c7-9be9-c71e61e48155</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +111,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div[2]/div[2]</value>
-      <webElementGuid>9c0ebe11-8c8c-4aff-8c9f-79ea56828095</webElementGuid>
+      <webElementGuid>44daa76c-eb8f-4719-97a0-5c53970ccaf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -115,6 +123,6 @@
                 ' or . = '&#xd;
                     Password was changed&#xd;
                 ')]</value>
-      <webElementGuid>4c553740-a3e5-437b-9c92-fbe4d770ffc2</webElementGuid>
+      <webElementGuid>2a493b35-6d97-42f9-b005-d45c92a1c3cb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

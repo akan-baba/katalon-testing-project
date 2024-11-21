@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>3. div_Thank you for signing up</name>
+   <tag></tag>
+   <elementGuidId>5b475596-765a-4c4c-83fe-eec62fe86191</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#newsletter-result-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='newsletter-result-block']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Thank you for signing up! A verification email has been sent. We appreciate your&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f0fb4a34-caca-49ce-a10a-4455f061b368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>newsletter-result-block</value>
+      <webElementGuid>6d175abb-be25-4b5c-b173-a0fdf8c4f271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>newsletter-result-block</value>
+      <webElementGuid>a0ab3e1e-25c4-4a36-8917-a68c447ae664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thank you for signing up! A verification email has been sent. We appreciate your interest.</value>
+      <webElementGuid>5b68c7e3-fd94-4efc-b2eb-ee1bdc422fd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;newsletter-result-block&quot;)</value>
+      <webElementGuid>1bf0f7ae-8044-42ff-998d-2f2bf661b54a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='newsletter-result-block']</value>
+      <webElementGuid>10d95842-e09c-4f63-9e1e-26e14a90f74b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wait...'])[1]/following::div[1]</value>
+      <webElementGuid>ce86a6d3-454c-4b47-9b03-b2d289b1772a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up for our newsletter:'])[1]/following::div[3]</value>
+      <webElementGuid>2619cf40-a0d5-4622-9527-54fa7627b83f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Community poll'])[1]/preceding::div[1]</value>
+      <webElementGuid>68d49fa0-21be-4673-8c0e-5331561d5415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do you like nopCommerce?'])[1]/preceding::div[2]</value>
+      <webElementGuid>28cd02f6-6c10-4a00-9009-59df326608b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thank you for signing up! A verification email has been sent. We appreciate your interest.']/parent::*</value>
+      <webElementGuid>e6ea2cb8-9fc3-436b-9ca1-25210f927a43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div[2]</value>
+      <webElementGuid>c5b1dbaf-f630-4466-9d3d-f62b752d04a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'newsletter-result-block' and (text() = 'Thank you for signing up! A verification email has been sent. We appreciate your interest.' or . = 'Thank you for signing up! A verification email has been sent. We appreciate your interest.')]</value>
+      <webElementGuid>4d488352-b1d1-475a-9622-a1ed6d456630</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

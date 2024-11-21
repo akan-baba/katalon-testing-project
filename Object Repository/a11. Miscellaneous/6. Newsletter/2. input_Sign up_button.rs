@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>2. search-box-button</name>
+   <name>2. input_Sign up_button</name>
    <tag></tag>
-   <elementGuidId>f1117667-79c7-400a-92ba-7f87a2229662</elementGuidId>
+   <elementGuidId>82839073-58d6-4408-bf0e-2e6d3f0ee776</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>input.button-1.search-box-button</value>
+         <value>#newsletter-subscribe-button</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@value='Search']</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
+         <value>//input[@id='newsletter-subscribe-button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Search&quot;i]</value>
+         <value>internal:role=button[name=&quot;Subscribe&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -32,62 +29,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>d7609b99-8357-4559-9c19-a2752314d17e</webElementGuid>
+      <webElementGuid>54b52fc4-4a41-46d9-8184-b2342c90835a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>94522364-2b65-42f3-979f-f64594cd4587</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>button-1 search-box-button</value>
-      <webElementGuid>ec523722-7622-4e08-92e4-05c08ca8b611</webElementGuid>
+      <value>button</value>
+      <webElementGuid>8936a28b-8b0c-46fa-93ad-fa74e02fe741</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Search</value>
-      <webElementGuid>a3bb32e8-e6df-447a-960f-cd52cf854976</webElementGuid>
+      <value>Subscribe</value>
+      <webElementGuid>fcd3b0ff-2ac2-4667-9a4a-3ec6a372d74b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>newsletter-subscribe-button</value>
+      <webElementGuid>6fde4c5d-33ff-4b61-97af-d5161de3374d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-1 newsletter-subscribe-button</value>
+      <webElementGuid>0e5788e4-b54b-4fbb-ae81-dc8d6dc2ad23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;header&quot;]/div[@class=&quot;search-box&quot;]/form[1]/input[@class=&quot;button-1 search-box-button&quot;]</value>
-      <webElementGuid>aad098aa-db6e-4f0d-8bb3-19a536643d45</webElementGuid>
+      <value>id(&quot;newsletter-subscribe-button&quot;)</value>
+      <webElementGuid>8001f097-c541-4916-88a2-c4b9bb29e25f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@value='Search']</value>
-      <webElementGuid>a302e2f7-e311-4967-ab9b-cf86d349ecb6</webElementGuid>
+      <value>//input[@id='newsletter-subscribe-button']</value>
+      <webElementGuid>05326897-2e82-4571-baa4-6f08463a7aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='newsletter-subscribe-block']/div[2]/input</value>
+      <webElementGuid>ac729484-154c-45b2-9627-7be0b05b92db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input[2]</value>
-      <webElementGuid>51d4ad5a-8c55-44cc-b743-832591b0e24c</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>21c7fff2-35ae-4c38-a608-4f1b42c72a33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit']</value>
-      <webElementGuid>1c6e96fb-5ba3-4317-9727-5cfb55b56685</webElementGuid>
+      <value>//input[@type = 'button' and @id = 'newsletter-subscribe-button']</value>
+      <webElementGuid>dfa095d1-661f-4235-8015-8e214dff3529</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
