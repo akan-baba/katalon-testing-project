@@ -12,73 +12,73 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>77c56c67-3503-4fee-a355-5e2db909cd33</testSuiteGuid>
    <testCaseLink>
-      <guid>6a422ebb-d5eb-45c6-8206-abbaa9c5408d</guid>
+      <guid>d748b73b-77d2-4857-8163-0bff2ecf5a34</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/7- Test with Custom-Keywords/TC01. User-Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>0109bc07-b2cc-47b3-9164-e8b9e5d0d231</guid>
+      <guid>a944d94b-4e3e-41ea-8853-5a7f49b72f85</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/7- Test with Custom-Keywords/TC02. SearchKeywords</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>10e098b2-195d-49f8-b002-ea03c18f2d6b</guid>
+      <guid>de13d392-f582-4829-b8d5-e57207fd23a7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/7- Test with Custom-Keywords/TC03. Contact-Us</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f3af1569-bd0e-4326-badf-3f556942a275</guid>
+      <guid>20675f76-f790-4e64-98a6-68b6dd022a2f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/7- Test with Custom-Keywords/TC04. CheckoutKeywords</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>12f8e63b-bf0e-4e98-b5dd-fa49d777f296</guid>
+      <guid>fd29b27f-7115-4d94-a459-c30de9d4e5d5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/7- Test with Custom-Keywords/TC05. RemoveFromCartKeywords</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f039f3b0-88e1-454b-966f-a293bc0a9819</guid>
+      <guid>2ea49396-cfff-4a24-bbf3-64ab44f7b1a0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/7- Test with Custom-Keywords/TC06. User-Logout</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>8f42424c-5561-45f5-bf3c-e5a006153b7c</guid>
+      <guid>bb1d5a95-a33f-49a4-b43f-6b012bf61d25</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/7- Test with Custom-Keywords/TC07. ChangePassword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>69176b96-a8b5-474f-ba78-d6dbde139e7d</guid>
+      <guid>587edd91-414f-4f74-af2c-9d06c3e67215</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/7- Test with Custom-Keywords/TC08. Verify Page Title</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>64aa897e-98fd-4ea0-953d-ae8afd235994</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/7- Test with Custom-Keywords/TC10. Validate Links</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>440409c7-1246-408a-9743-4631bbe4c3db</guid>
+      <guid>4359c2b5-f091-4747-af9a-cd3f5bab470a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/7- Test with Custom-Keywords/TC09. NewsLetter-Subscription</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>db20083f-4384-4bdf-9d3c-aa81f6388d2e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/7- Test with Custom-Keywords/TC10. Validate Links</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

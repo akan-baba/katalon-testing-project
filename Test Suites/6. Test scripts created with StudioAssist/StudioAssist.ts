@@ -12,59 +12,73 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>9bd5fd94-738f-4111-a621-6c9b6445d1af</testSuiteGuid>
    <testCaseLink>
-      <guid>e7e1c5b5-aa45-4690-abbe-7fbb128a82ba</guid>
+      <guid>2d3ac5a6-ee20-45e5-8809-9797a4cd28ec</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC01- User Login Validation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>792d53c9-07ed-4679-aff7-93a182842ab6</guid>
+      <guid>29f67c2d-88b2-4e04-b1bb-6f8df07a0971</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC02 - User Changing Password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>37503af2-7fcc-4cc1-931d-cb21cd9cd1c2</guid>
+      <guid>222ac6cd-e189-4a8a-9263-c2c2c6ef5862</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC03 - Contact Us Form Validation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>32fe6760-a85c-4278-b432-05ec6bdeef9f</guid>
+      <guid>0463bc03-c37c-4c0a-891b-f3b8b44b9c52</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC04 - Search Functionality Validation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>b7c76861-9863-4cc7-832d-0a189e2dcc14</guid>
+      <guid>05896dfc-cda3-4bfc-a8ed-43dee14ca1a2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC05 - Password Reset Validation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>918a4802-4d2b-47d7-9f9d-945cb5111890</guid>
+      <guid>4edc140c-f1c8-4730-b1ff-67a29b6dce47</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC06 - Login with Invalid Credentials Validation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>23596a2f-3725-4e61-b6d3-3c2e85b836ba</guid>
+      <guid>641e7fe6-c64e-4856-a170-f476f5f91bd2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC07 - Adding and Removing Item from Wishlist</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>769dad45-4da6-485d-bbe8-d427414c595e</guid>
+      <guid>7ae2c836-c6c6-4d11-a444-8e1a941fff82</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC08 - Validate Newsletter Subscription</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f5edf2f0-9f90-49ca-bba2-36b50bb185f2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC09 - User Registration</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>42a0a30b-9cd6-404f-b92a-6d8573c09fc9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC10 - Validate User Logout</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
