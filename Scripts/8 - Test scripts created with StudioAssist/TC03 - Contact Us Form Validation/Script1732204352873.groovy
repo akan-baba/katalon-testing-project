@@ -28,17 +28,17 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('https://demowebshop.tricentis.com/')
 
 // Click on the contact us link to navigate to the contact form page
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('a11. Miscellaneous/1. Contact-Us/1. a_Contact us'))
 
 // Input valid name, email, and enquiry fields
-WebUI.setText(findTestObject('null'), 'colleen james')
+WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/2. FullName'), 'colleen james')
 
-WebUI.setText(findTestObject('null'), 'colleen@aol.com')
+WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/3. input_Email'), 'colleen@aol.com')
 
-WebUI.setText(findTestObject('null'), 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem')
+WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/4. textarea_Enquiry'), 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem')
 
 // Click the "Submit" button
-WebUI.click(findTestObject('null'))
+WebUI.click(findTestObject('a11. Miscellaneous/1. Contact-Us/5. input_Enquiry_submit-btn'))
 
 // Verify that a success message is displayed
 WebUI.verifyTextPresent('Your enquiry has been successfully sent to the store owner.', false)

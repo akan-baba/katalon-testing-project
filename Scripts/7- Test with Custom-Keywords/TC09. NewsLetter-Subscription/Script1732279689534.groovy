@@ -17,28 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-/* Contact Us Form Validation
- *1. Open the browser to the https://demowebshop.tricentis.com/
- *2. Navigate to contact form page by clicking on the contact us link
- *3. Input a valid name, email, and enquiry fields, colleen james, colleen@aol.com, and "Sed ut perspiciatis unde omnis iste natus error sit voluptatem".
- *4. Click the "Submit" button.
- *5. Verify that a Text Present 'Your enquiry has been successfully sent to the store owner.'.
- **/
-// Open the browser to the specified URL
-WebUI.openBrowser('https://demowebshop.tricentis.com/')
+WebUI.openBrowser('')
 
-// Click on the contact us link to navigate to the contact form page
-WebUI.click(findTestObject('null'))
+WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
-// Input valid name, email, and enquiry fields
-WebUI.setText(findTestObject('null'), 'colleen james')
-
-WebUI.setText(findTestObject('null'), 'colleen@aol.com')
-
-WebUI.setText(findTestObject('null'), 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem')
-
-// Click the "Submit" button
-WebUI.click(findTestObject('null'))
-
-WebUI.verifyTextPresent('Your enquiry has been successfully sent to the store owner.', false)
+CustomKeywords.'com.NewsLetterSub.newsLetter'()
 

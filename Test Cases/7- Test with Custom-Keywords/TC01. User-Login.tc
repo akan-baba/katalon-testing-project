@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>5. RemoveFromCartKeywords</name>
+   <name>TC01. User-Login</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>df778877-b496-4ef5-a2fc-912eebab31c7</testCaseGuid>
+   <testCaseGuid>fac372ab-405c-466e-8225-54b5ba30c61d</testCaseGuid>
 </TestCaseEntity>

@@ -24,16 +24,20 @@ public class contactUs {
 
 	@Keyword
 	public void contactUsForm () {
-		WebUI.click(findTestObject('a11. Miscellaneous/1. Contact-Us/1. a_Contact us'))
+		// Click on the contact us link to navigate to the contact form page
+WebUI.click(findTestObject('a11. Miscellaneous/1. Contact-Us/1. a_Contact us'))
 
-		WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/2. FullName'), 'Jane Doe')
+// Input valid name, email, and enquiry fields
+WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/2. FullName'), 'colleen james')
 
-		WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/3. Email'), 'jane@aol.com')
+WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/3. input_Email'), 'colleen@aol.com')
 
-		WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/4. Enter_Enquiry'), 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua')
+WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/4. textarea_Enquiry'), 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem')
 
-		WebUI.click(findTestObject('a11. Miscellaneous/1. Contact-Us/5. Send-email'))
+// Click the "Submit" button
+WebUI.click(findTestObject('a11. Miscellaneous/1. Contact-Us/5. input_Enquiry_submit-btn'))
 
-		WebUI.verifyTextPresent('Your enquiry has been successfully sent to the store owner', false)
+// Verify that a success message is displayed
+WebUI.verifyTextPresent('Your enquiry has been successfully sent to the store owner.', false)
 	}
 }

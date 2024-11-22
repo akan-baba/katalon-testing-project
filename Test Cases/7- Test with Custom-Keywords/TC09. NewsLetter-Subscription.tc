@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>4. CheckoutKeywords</name>
+   <name>TC09. NewsLetter-Subscription</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>d3f6fbf7-7490-4cb5-be87-e44f19486009</testCaseGuid>
+   <testCaseGuid>c51e87c2-55cc-4d37-ba75-3b728ded1e3b</testCaseGuid>
 </TestCaseEntity>

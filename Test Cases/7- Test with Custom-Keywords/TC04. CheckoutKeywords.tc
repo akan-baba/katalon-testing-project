@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>8. Verify Page Title</name>
+   <name>TC04. CheckoutKeywords</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>ed5e7267-fb1f-43aa-b9c8-87184b6b81b9</testCaseGuid>
+   <testCaseGuid>d3f6fbf7-7490-4cb5-be87-e44f19486009</testCaseGuid>
 </TestCaseEntity>

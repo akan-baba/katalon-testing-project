@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>1. User-Login</name>
+   <name>TC08. Verify Page Title</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>fac372ab-405c-466e-8225-54b5ba30c61d</testCaseGuid>
+   <testCaseGuid>ed5e7267-fb1f-43aa-b9c8-87184b6b81b9</testCaseGuid>
 </TestCaseEntity>

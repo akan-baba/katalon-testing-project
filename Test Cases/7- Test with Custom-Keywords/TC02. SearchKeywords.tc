@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>3. Contact-Us</name>
+   <name>TC02. SearchKeywords</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>3c2bcda1-8844-4c9a-b5f8-6201ef7f19c0</testCaseGuid>
+   <testCaseGuid>13d9f250-cb1b-4a23-a34a-3c3cccf6ac19</testCaseGuid>
 </TestCaseEntity>

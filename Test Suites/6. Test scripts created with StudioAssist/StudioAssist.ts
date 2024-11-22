@@ -22,7 +22,7 @@
       <guid>792d53c9-07ed-4679-aff7-93a182842ab6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC02 - Change Password Functionality</testCaseId>
+      <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC02 - User Changing Password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>

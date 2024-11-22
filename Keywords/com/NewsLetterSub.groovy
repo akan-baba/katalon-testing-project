@@ -13,6 +13,7 @@ import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 import com.kms.katalon.core.model.FailureHandling
 import com.kms.katalon.core.testcase.TestCase
 import com.kms.katalon.core.testdata.TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 import com.kms.katalon.core.testobject.TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
@@ -20,24 +21,16 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class ChangePasswordKeyword {
-
+public class NewsLetterSub {
 	@Keyword
-	public void passwordChange() {
-
-		WebUI.click(findTestObject('a11. Miscellaneous/5. ChangePassword/1. My account'))
-
-		WebUI.click(findTestObject('a11. Miscellaneous/5. ChangePassword/2. Change password'))
-
-		WebUI.setText(findTestObject('a11. Miscellaneous/5. ChangePassword/3. OldPassword'), 'red123')
-
-		WebUI.setText(findTestObject('a11. Miscellaneous/5. ChangePassword/4. NewPassword'), 'red123')
-
-		WebUI.setText(findTestObject('a11. Miscellaneous/5. ChangePassword/5. ConfirmNewPassword'), 'red123')
-
-		WebUI.click(findTestObject('a11. Miscellaneous/5. ChangePassword/6. Change-password-button'))
-
-		'Password changed'
-		WebUI.verifyTextPresent('Password was changed', false)
+	public void newsLetter( ) {
+		// Navigate to the subscription section and enter a valid email address
+		WebUI.setText(findTestObject('a11. Miscellaneous/6. Newsletter/1. input_Sign_up_field'), 'testuser@yahoo.com')
+		
+		// Click the "Subscribe" button
+		WebUI.click(findTestObject('a11. Miscellaneous/6. Newsletter/2. input_Sign up_button'))
+		
+		// Verify that a success message is displayed
+		WebUI.verifyTextPresent('Thank you for signing up! A verification email has been sent. We appreciate your interest.', false)
 	}
 }
