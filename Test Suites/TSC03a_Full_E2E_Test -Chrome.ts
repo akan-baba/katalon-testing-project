@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteCollectionEntity>
    <description>End to end test suite collection</description>
-   <name>TSC03_Full_E2E_Test</name>
+   <name>TSC03a_Full_E2E_Test -Chrome</name>
    <tag></tag>
    <delayBetweenInstances>2</delayBetweenInstances>
    <executionMode>PARALLEL</executionMode>
