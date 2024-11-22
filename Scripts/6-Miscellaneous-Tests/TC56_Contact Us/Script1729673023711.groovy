@@ -21,15 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
-WebUI.click(findTestObject('a11. Miscellaneous/a. Contact Us/1. a_Contact us'))
+WebUI.click(findTestObject('a11. Miscellaneous/1. Contact-Us/1. a_Contact us'))
 
-WebUI.setText(findTestObject('a11. Miscellaneous/a. Contact Us/2. FullName'), 'Jane Doe')
+WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/2. FullName'), 'Jane Doe')
 
-WebUI.setText(findTestObject('a11. Miscellaneous/a. Contact Us/3. Email'), 'jane-doe@aol.com')
+WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/3. input_Email'), 'jane-doe@aol.com')
 
-WebUI.setText(findTestObject('a11. Miscellaneous/a. Contact Us/4. Enter_Enquiry'), 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.')
+WebUI.setText(findTestObject('a11. Miscellaneous/1. Contact-Us/4. textarea_Enquiry'), 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.')
 
-WebUI.click(findTestObject('a11. Miscellaneous/a. Contact Us/5. Send-email'))
+WebUI.click(findTestObject('a11. Miscellaneous/1. Contact-Us/5. input_Enquiry_submit-btn'))
 
 WebUI.verifyTextPresent('Your enquiry has been successfully sent to the store owner.', false)
 
