@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC07 - Adding and Removing Item from Wishlist</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>2b3ff28c-46fb-49b9-b61d-5bcee464fbad</testCaseGuid>
-</TestCaseEntity>

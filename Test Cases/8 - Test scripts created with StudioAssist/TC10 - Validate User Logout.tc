@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC10 - Validate User Logout</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>f8dc30c9-b5d8-464e-950b-85f21b8f6901</testCaseGuid>
-</TestCaseEntity>

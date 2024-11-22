@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC61. CheckoutKeywords</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3f6fbf7-7490-4cb5-be87-e44f19486009</testCaseGuid>
+</TestCaseEntity>

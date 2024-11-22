@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC08 - Validate Newsletter Subscription</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>e9330c56-217d-4cea-aecc-a32c89519aa6</testCaseGuid>
-</TestCaseEntity>

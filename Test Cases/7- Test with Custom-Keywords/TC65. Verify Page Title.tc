@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC65. Verify Page Title</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed5e7267-fb1f-43aa-b9c8-87184b6b81b9</testCaseGuid>
+</TestCaseEntity>
