@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>StudioAssist</name>
+   <name>TS12. Tests with Custom-Keywords</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,75 +10,75 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>9bd5fd94-738f-4111-a621-6c9b6445d1af</testSuiteGuid>
+   <testSuiteGuid>77c56c67-3503-4fee-a355-5e2db909cd33</testSuiteGuid>
    <testCaseLink>
-      <guid>2d3ac5a6-ee20-45e5-8809-9797a4cd28ec</guid>
+      <guid>d748b73b-77d2-4857-8163-0bff2ecf5a34</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC69. User Login Validation</testCaseId>
+      <testCaseId>Test Cases/7- Test with Custom-Keywords/TC58. User-Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>29f67c2d-88b2-4e04-b1bb-6f8df07a0971</guid>
+      <guid>a944d94b-4e3e-41ea-8853-5a7f49b72f85</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC70. User Changing Password</testCaseId>
+      <testCaseId>Test Cases/7- Test with Custom-Keywords/TC59. SearchKeywords</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>222ac6cd-e189-4a8a-9263-c2c2c6ef5862</guid>
+      <guid>de13d392-f582-4829-b8d5-e57207fd23a7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC71. Contact Us Form Validation</testCaseId>
+      <testCaseId>Test Cases/7- Test with Custom-Keywords/TC61. Contact-Us</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>0463bc03-c37c-4c0a-891b-f3b8b44b9c52</guid>
+      <guid>20675f76-f790-4e64-98a6-68b6dd022a2f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC72. Search Functionality Validation</testCaseId>
+      <testCaseId>Test Cases/7- Test with Custom-Keywords/TC61. CheckoutKeywords</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>05896dfc-cda3-4bfc-a8ed-43dee14ca1a2</guid>
+      <guid>fd29b27f-7115-4d94-a459-c30de9d4e5d5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC73. Password Reset Validation</testCaseId>
+      <testCaseId>Test Cases/7- Test with Custom-Keywords/TC62. RemoveFromCartKeywords</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>4edc140c-f1c8-4730-b1ff-67a29b6dce47</guid>
+      <guid>2ea49396-cfff-4a24-bbf3-64ab44f7b1a0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC74. Login with Invalid Credentials Validation</testCaseId>
+      <testCaseId>Test Cases/7- Test with Custom-Keywords/TC63. User-Logout</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>641e7fe6-c64e-4856-a170-f476f5f91bd2</guid>
+      <guid>bb1d5a95-a33f-49a4-b43f-6b012bf61d25</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC75. Adding and Removing Item from Wishlist</testCaseId>
+      <testCaseId>Test Cases/7- Test with Custom-Keywords/TC64. ChangePassword</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>7ae2c836-c6c6-4d11-a444-8e1a941fff82</guid>
+      <guid>587edd91-414f-4f74-af2c-9d06c3e67215</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC76. Validate Newsletter Subscription</testCaseId>
+      <testCaseId>Test Cases/7- Test with Custom-Keywords/TC65. Verify Page Title</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f5edf2f0-9f90-49ca-bba2-36b50bb185f2</guid>
+      <guid>4359c2b5-f091-4747-af9a-cd3f5bab470a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC77. User Registration</testCaseId>
+      <testCaseId>Test Cases/7- Test with Custom-Keywords/TC66. NewsLetter-Subscription</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>42a0a30b-9cd6-404f-b92a-6d8573c09fc9</guid>
+      <guid>db20083f-4384-4bdf-9d3c-aa81f6388d2e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/8 - Test scripts created with StudioAssist/TC68. Validate User Logout</testCaseId>
+      <testCaseId>Test Cases/7- Test with Custom-Keywords/TC67. Validate Links</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

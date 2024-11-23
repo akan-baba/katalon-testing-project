@@ -17,20 +17,20 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.openBrowser('') // Breakpoint 1
 
 WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
-// Click on the register link/button
 WebUI.click(findTestObject('1. User-Login/1. a_Log in'))
 
-WebUI.setText(findTestObject('1. User-Login/2. input_Email'), 'baba@aol.com')
+WebUI.click(findTestObject('1. User-Login/5. a_Forgot password')) // Breakpoint 2
 
-WebUI.setText(findTestObject('1. User-Login/3. input_Password'), 'red123', FailureHandling.OPTIONAL)
+WebUI.setText(findTestObject('1. User-Login/8. input_Your email address'), 'baba-ikpa@genesisone.org.uk') // Breakpoint 3
 
-WebUI.click(findTestObject('1. User-Login/6.  login-button'))
+WebUI.click(findTestObject('1. User-Login/9. recover-send-email-btn'))
 
-WebUI.verifyTextPresent('Login was unsuccessful. Please correct the errors and try again.', false)
+WebUI.verifyTextPresent('Email with instructions has been sent to you.', false) // Breakpoint 4
 
-WebUI.closeBrowser()
+WebUI.closeBrowser() // Breakpoint 5
+
 
