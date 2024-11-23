@@ -105,7 +105,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/6. Test scripts created with StudioAssist/StudioAssist</testSuiteEntity>
+         <testSuiteEntity>Test Suites/6. Test scripts created with StudioAssist/TS10. StudioAssist</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -115,7 +115,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/7. miscellaneous/TS10. Miscellaneous-test</testSuiteEntity>
+         <testSuiteEntity>Test Suites/7. miscellaneous/TS11. Miscellaneous-test</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -125,7 +125,7 @@
             <runConfigurationId>Firefox</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/7. miscellaneous/TS11. Tests with Custom-Keywords</testSuiteEntity>
+         <testSuiteEntity>Test Suites/7. miscellaneous/TS12. Tests with Custom-Keywords</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>
