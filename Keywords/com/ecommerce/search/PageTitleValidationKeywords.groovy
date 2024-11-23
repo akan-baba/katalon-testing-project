@@ -1,4 +1,4 @@
-package com
+package com.ecommerce.search
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
@@ -21,16 +21,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class NewsLetterSub {
+public class PageTitleValidationKeywords {
 	@Keyword
-	public void newsLetter( ) {
-		// Navigate to the subscription section and enter a valid email address
-		WebUI.setText(findTestObject('a11. Miscellaneous/6. Newsletter/1. input_Sign_up_field'), 'testuser@yahoo.com')
+	pageTitle() {
+		// Open the browser and navigate to the URL
+		WebUI.openBrowser('https://demowebshop.tricentis.com')
 		
-		// Click the "Subscribe" button
-		WebUI.click(findTestObject('a11. Miscellaneous/6. Newsletter/2. input_Sign up_button'))
+		// Wait for the page to load
+		WebUI.waitForPageLoad(5, FailureHandling.STOP_ON_FAILURE)
 		
-		// Verify that a success message is displayed
-		WebUI.verifyTextPresent('Thank you for signing up! A verification email has been sent. We appreciate your interest.', false)
+		// Get the current window title
+		String titleWindow = WebUI.getWindowTitle()
+		
+		// Verify that the window title matches the expected value
+		WebUI.verifyMatch(titleWindow, "Demo Web Shop", true)
+		
+		
 	}
 }

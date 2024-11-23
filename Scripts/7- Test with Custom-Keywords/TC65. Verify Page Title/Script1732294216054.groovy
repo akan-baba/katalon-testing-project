@@ -18,7 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
-CustomKeywords.'com.VerifyPageTitleKeyword.pageTitle'()
+CustomKeywords.'com.ecommerce.search.PageTitleValidationKeywords.pageTitle'()
 
 WebUI.click(findTestObject('1. User-Login/1. a_Log in'))
 
@@ -31,3 +31,4 @@ WebUI.click(findTestObject('1. User-Login/6.  login-button'))
 WebUI.verifyTextPresent('colleen@aol.com', false)
 
 WebUI.click(findTestObject('1. User-Login/7. a_Log out'))
+

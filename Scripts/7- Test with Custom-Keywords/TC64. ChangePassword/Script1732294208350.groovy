@@ -33,5 +33,5 @@ WebUI.click(findTestObject('1. User-Login/6.  login-button'))
 'Log in sucessfully'
 WebUI.verifyTextPresent('james-doe@aol.com', false)
 
-CustomKeywords.'com.ChangePasswordKeyword.passwordChange'()
+CustomKeywords.'com.ecommerce.auth.ChangePasswordKeywords.changePassword'()
 

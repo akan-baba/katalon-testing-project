@@ -21,5 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
-CustomKeywords.'com.NewsLetterSub.newsLetter'()
+CustomKeywords.'com.ecommerce.utilities.NewsletterSubscriptionKeywords.newsletter'()
 

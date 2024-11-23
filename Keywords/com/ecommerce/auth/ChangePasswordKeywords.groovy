@@ -1,4 +1,4 @@
-package com
+package com.ecommerce.auth
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
@@ -13,6 +13,7 @@ import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 import com.kms.katalon.core.model.FailureHandling
 import com.kms.katalon.core.testcase.TestCase
 import com.kms.katalon.core.testdata.TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 import com.kms.katalon.core.testobject.TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
@@ -20,11 +21,10 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class ChangePasswordKeyword {
+public class ChangePasswordKeywords {
 
 	@Keyword
-	public void passwordChange() {
-
+	def changePassword() {
 		WebUI.click(findTestObject('a11. Miscellaneous/5. ChangePassword/1. My account'))
 
 		WebUI.click(findTestObject('a11. Miscellaneous/5. ChangePassword/2. Change password'))

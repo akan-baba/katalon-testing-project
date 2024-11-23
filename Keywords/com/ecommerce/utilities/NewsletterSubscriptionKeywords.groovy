@@ -1,4 +1,4 @@
-package com
+package com.ecommerce.utilities
 
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
@@ -13,6 +13,7 @@ import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
 import com.kms.katalon.core.model.FailureHandling
 import com.kms.katalon.core.testcase.TestCase
 import com.kms.katalon.core.testdata.TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 import com.kms.katalon.core.testobject.TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
@@ -20,17 +21,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class removeFromCart {
+public class NewsletterSubscriptionKeywords {
 	@Keyword
-	public void updateCart() {
-		WebUI.click(findTestObject('3. Computers/Desktop/6. span_Shopping cart'))
+	def newsletter() {
+		// Navigate to the subscription section and enter a valid email address
+		WebUI.setText(findTestObject('a11. Miscellaneous/6. Newsletter/1. input_Sign_up_field'), 'testuser@yahoo.com')
 		
-		WebUI.click(findTestObject('a11. Miscellaneous/4. UpdateCart/1. removefromcart'))
+		// Click the "Subscribe" button
+		WebUI.click(findTestObject('a11. Miscellaneous/6. Newsletter/2. input_Sign up_button'))
 		
-		WebUI.clearText(findTestObject('a11. Miscellaneous/4. UpdateCart/2. Qty_itemquantity'))
-		
-		WebUI.click(findTestObject('a11. Miscellaneous/4. UpdateCart/3. Total_updatecart'))
-		
-		WebUI.verifyTextPresent('Your Shopping Cart is empty!', false)
+		// Verify that a success message is displayed
+		WebUI.verifyTextPresent('Thank you for signing up! A verification email has been sent. We appreciate your interest.', false)
 	}
+	
+	
 }

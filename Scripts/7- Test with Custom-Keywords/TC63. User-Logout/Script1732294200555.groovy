@@ -29,5 +29,5 @@ WebUI.setText(findTestObject('1. User-Login/3. input_Password'), 'red123')
 
 WebUI.click(findTestObject('1. User-Login/6.  login-button'))
 
-CustomKeywords.'com.LogoutKeywords.userLogOut'()
+CustomKeywords.'com.ecommerce.auth.LogoutKeywords.userLogOut'()
 

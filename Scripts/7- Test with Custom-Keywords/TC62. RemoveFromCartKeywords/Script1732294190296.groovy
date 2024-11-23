@@ -37,5 +37,5 @@ WebUI.setText(findTestObject('3. Computers/Desktop/4. enteredQuantity'), '2')
 
 WebUI.click(findTestObject('3. Computers/Desktop/5. add-to-cart-button-72'))
 
-CustomKeywords.'com.removeFromCart.updateCart'()
+CustomKeywords.'com.ecommerce.cart.RemoveFromCartKeywords.updateCart'()
 

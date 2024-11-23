@@ -21,5 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
-CustomKeywords.'com.contactUs.contactUsForm'()
+CustomKeywords.'com.ecommerce.utilities.ContactUsKeywords.contactUsForm'()
 

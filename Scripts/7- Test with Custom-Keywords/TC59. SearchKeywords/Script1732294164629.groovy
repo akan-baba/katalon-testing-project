@@ -21,5 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
-CustomKeywords.'com.SearchKeywords.searchTest'()
+CustomKeywords.'com.ecommerce.search.SearchKeywords.searchFunction'()
 

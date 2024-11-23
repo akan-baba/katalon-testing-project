@@ -45,5 +45,5 @@ WebUI.click(findTestObject('3. Computers/Desktop/8. input_termsofservice'))
 
 WebUI.click(findTestObject('3. Computers/Desktop/9. button_Checkout'))
 
-CustomKeywords.'com.CheckoutKeywords.checkOut'()
+CustomKeywords.'com.ecommerce.cart.CheckoutKeywords.checkOut'()
 
