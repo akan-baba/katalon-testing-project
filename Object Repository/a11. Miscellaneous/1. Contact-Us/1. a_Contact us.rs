@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.column.information > ul > li:nth-of-type(6) > a</value>
+         <value>div...................</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Contact us')]</value>
+         <value>//a[contains(text(),'invalid')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>14e9a3f5-e2de-4171-bd4f-f5fff6979251</webElementGuid>
+      <webElementGuid>fdc03e3d-ebd0-482b-adf2-fb59435e1707</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/contactus</value>
-      <webElementGuid>894da93b-98c5-4f41-9684-27ecd71b684b</webElementGuid>
+      <webElementGuid>cfa33d7a-9d03-4ce7-b1ae-d74ac14eea15</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Contact us</value>
-      <webElementGuid>070e68c2-c715-4c9a-b3f2-e86c2cf0ad47</webElementGuid>
+      <webElementGuid>2d1287e8-af8c-4cc6-b346-dc0d063d0c76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;footer&quot;]/div[@class=&quot;footer-menu-wrapper&quot;]/div[@class=&quot;column information&quot;]/ul[1]/li[6]/a[1]</value>
-      <webElementGuid>26fec415-a6ea-4d53-9302-50026a5e5da7</webElementGuid>
+      <webElementGuid>8bd16e44-687a-4867-b598-172048068a29</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Contact us')]</value>
-      <webElementGuid>307942cd-8ecd-4aca-9c5a-f70b5597e8db</webElementGuid>
+      <webElementGuid>655dd2d0-ac81-43ff-b83f-a951a3ce5b3c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='About us'])[1]/following::a[1]</value>
-      <webElementGuid>6cb2a5e2-c984-448b-8a42-b7f2ea145c56</webElementGuid>
+      <webElementGuid>57a59058-25d6-4685-ab4d-141caac7cf60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Conditions of Use'])[1]/following::a[2]</value>
-      <webElementGuid>b1298476-3ad6-42d3-8366-a63d83145622</webElementGuid>
+      <webElementGuid>957a4f9c-012d-46c8-aeae-a644e8d36fa3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer service'])[1]/preceding::a[1]</value>
-      <webElementGuid>49eaea70-b58b-49e0-bf06-f8be752826cc</webElementGuid>
+      <webElementGuid>5d3f1c8e-b8c0-42fd-b274-ffa13949cad9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::a[1]</value>
-      <webElementGuid>0e8e5b6d-85c4-4300-a161-d1ecb40b70a0</webElementGuid>
+      <webElementGuid>b20802c1-72c1-422c-a622-96f3523611fc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Contact us']/parent::*</value>
-      <webElementGuid>91d0b277-4376-41b3-89e7-db8bdd8db56f</webElementGuid>
+      <webElementGuid>81d485c7-1e4d-4f0e-94e3-470a6e7a965d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/contactus')]</value>
-      <webElementGuid>93bd6ab7-6949-40ea-8654-cdc0503140fb</webElementGuid>
+      <webElementGuid>41a5f301-c841-420f-8392-d633d4d67101</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/ul/li[6]/a</value>
-      <webElementGuid>31e6170f-fa3c-4061-8504-fcb7de3827b2</webElementGuid>
+      <webElementGuid>fe3ef886-707d-4cee-9455-ac022771f938</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/contactus' and (text() = 'Contact us' or . = 'Contact us')]</value>
-      <webElementGuid>9355a537-23ac-441f-ad32-d12e124147a2</webElementGuid>
+      <webElementGuid>962fb936-89d2-4cc7-a1e9-cc387e2ec797</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

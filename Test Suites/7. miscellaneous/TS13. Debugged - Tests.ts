@@ -25,4 +25,11 @@
       <testCaseId>Test Cases/9 - Debugged - Test Scripts/TC79 - Forgot password</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>8b79916e-6a4a-41b2-b85a-945473b61600</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/9 - Debugged - Test Scripts/TC80 - desktop-checkout-as-guest-creditCard</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
