@@ -6,12 +6,12 @@
    <elementGuidId>9a44cb1d-1138-4fab-8279-d28f7b39f711</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div...................</value>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Contact us')]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'invalid')]</value>
+         <key>CSS</key>
+         <value>div...................</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

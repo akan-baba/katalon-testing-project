@@ -6,12 +6,16 @@
    <elementGuidId>6456df78-2dd8-40d9-b8f8-9bd03b86ad2d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>li:nth-of-type(7) > a.inactive</value>
+         <key>BASIC</key>
+         <value>//*[@href = '/customer/changepassword' and (text() = 'Change password' or . = 'Change password')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'Change password')]</value>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Reward points'])[1]/following::a[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6c1f59c0-0681-4927-9218-4770cb4dc112</webElementGuid>
+      <webElementGuid>c388c460-5ed1-44b9-9720-d37b9a060d9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +41,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/customer/changepassword</value>
-      <webElementGuid>81aca8db-201f-4d35-b9c5-88bf4ba990c9</webElementGuid>
+      <webElementGuid>f809694a-4fe7-4e8f-8be1-2e3c1c327df2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inactive</value>
-      <webElementGuid>76584c9a-7583-4e01-8d6f-b32e9c8499f2</webElementGuid>
+      <webElementGuid>fad3a4e5-7a0d-4135-9a22-a682f85e1532</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Change password</value>
-      <webElementGuid>aeb9e520-4d03-4da7-a4a4-942d39da64ec</webElementGuid>
+      <webElementGuid>f779ae08-824f-455c-b378-f96fde9f6752</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,15 +65,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;side-2&quot;]/div[@class=&quot;block block-account-navigation&quot;]/div[@class=&quot;listbox&quot;]/ul[@class=&quot;list&quot;]/li[7]/a[@class=&quot;inactive&quot;]</value>
-      <webElementGuid>1de17957-2b34-4312-a430-3780c4901fb6</webElementGuid>
+      <webElementGuid>9aa6b375-5c1e-4972-8faa-7dd6a6d42011</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Change password')]</value>
-      <webElementGuid>1d80d5cd-4944-4456-8cd4-01b994411dbe</webElementGuid>
+      <value>//a[contains(text(),'null')]</value>
+      <webElementGuid>8c724f9d-f90f-45eb-8abf-bf28b9190dfc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reward points'])[1]/following::a[1]</value>
-      <webElementGuid>7206a4d5-2682-4076-99eb-ec80fd480651</webElementGuid>
+      <webElementGuid>99e1485a-bb13-4188-8458-78feafa2d71e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back in stock subscriptions'])[1]/following::a[2]</value>
-      <webElementGuid>502e02a0-0f44-4298-9b20-e6430001b437</webElementGuid>
+      <webElementGuid>c79f63c5-f567-44ba-8aec-1e18ead59b27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My account - Customer info'])[1]/preceding::a[1]</value>
-      <webElementGuid>77d64c4c-0427-46ca-b045-6e71a0d35c22</webElementGuid>
+      <webElementGuid>3a1a4650-3ef5-4502-8b23-f67846a06151</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Personal Details'])[1]/preceding::a[1]</value>
-      <webElementGuid>2c9a403d-cb54-4bce-a06a-f25c2e29735a</webElementGuid>
+      <webElementGuid>c04f9fa1-0f4a-4307-88f1-5f64d7b725b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Change password']/parent::*</value>
-      <webElementGuid>4fc878e7-660b-4e8d-b010-19810efd6f29</webElementGuid>
+      <webElementGuid>dd38698c-9165-4833-977f-8fee00811117</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +121,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/customer/changepassword')]</value>
-      <webElementGuid>75b3b2ce-feaa-49b3-a2fb-8c32d65d45d8</webElementGuid>
+      <webElementGuid>e53e4b80-cf5b-43f8-89ba-8865e79a412d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +129,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/div/div[2]/ul/li[7]/a</value>
-      <webElementGuid>adf0d3aa-0b8d-45f9-bb18-143976393613</webElementGuid>
+      <webElementGuid>e8e2ed8f-a7de-4522-9657-343ce8519451</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +137,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/customer/changepassword' and (text() = 'Change password' or . = 'Change password')]</value>
-      <webElementGuid>ae83afe7-0fa1-4cf2-b7c5-dc4bf9231ee2</webElementGuid>
+      <webElementGuid>a244dc33-cea5-4202-a737-05f2f2516f5c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
