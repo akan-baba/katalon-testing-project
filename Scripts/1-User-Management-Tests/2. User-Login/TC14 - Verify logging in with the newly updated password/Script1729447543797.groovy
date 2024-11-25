@@ -22,7 +22,7 @@ import org.openqa.selenium.Keys as Keys
 // Step 1: Open browser and navigate to the login page
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
+WebUI.navigateToUrl('https://demowebshop.tricentis.com/') //Breakpoint 1: Verify url is loaded
 
 WebUI.click(findTestObject('1. User-Login/1. a_Log in'))
 
@@ -46,7 +46,7 @@ WebUI.setText(findTestObject('1. User-Login/a14. ConfirmNewPassword'), 'red123')
 
 WebUI.click(findTestObject('1. User-Login/a15. change-password-button'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyTextPresent('Password was changed', false)
+WebUI.verifyTextPresent('Password was changed', false)  //Breakpoint 2: Verify message
 
 WebUI.closeBrowser()
 

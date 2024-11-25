@@ -21,11 +21,11 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 
 // Navigate to the Demo Web Shop login page
-WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
+WebUI.navigateToUrl('https://demowebshop.tricentis.com/')  // Breakpoint 1: Ensure the correct URL loads
 
 // Wait for the login link/button to be clickable and interact with it
 WebUI.waitForElementClickable(findTestObject('1. User-Login/1. a_Log in'), 10)
-WebUI.click(findTestObject('1. User-Login/1. a_Log in')) // Breakpoint - 1
+WebUI.click(findTestObject('1. User-Login/1. a_Log in')) 
 
 // Input the email address
 WebUI.waitForElementVisible(findTestObject('1. User-Login/2. input_Email'), 10)
@@ -43,13 +43,13 @@ WebUI.click(findTestObject('1. User-Login/6.  login-button'))
 
 // Verify the email is displayed on the page after successful login
 WebUI.waitForPageLoad(10)
-WebUI.verifyTextPresent(email, false)
+WebUI.verifyTextPresent(email, false) //Breakpoint 3: Verify error message
 
 // Log out of the application
 WebUI.waitForElementClickable(findTestObject('1. User-Login/7. a_Log out'), 10)
 WebUI.click(findTestObject('1. User-Login/7. a_Log out'))
 
 // Close the browser
-WebUI.closeBrowser()
+//WebUI.closeBrowser()
 
 

@@ -19,10 +19,10 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
+WebUI.navigateToUrl('https://demowebshop.tricentis.com/') //Breakpoint 1: Ensure the correct URL loads
 
 // Click on the register link/button
-WebUI.click(findTestObject('2. User-Registration/1. a_Register'))
+WebUI.click(findTestObject('2. User-Registration/1. a_Register')) 
 
 // Select gender (you can modify this part based on the actual selector for male/female)
 WebUI.click(findTestObject('2. User-Registration/2. input_Gender'))

@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
+WebUI.navigateToUrl('https://demowebshop.tricentis.com/') //Breakpoint 1: Verify url is loaded
 
 // Click on the register link/button
 WebUI.click(findTestObject('1. User-Login/1. a_Log in'))
@@ -30,7 +30,7 @@ WebUI.setText(findTestObject('1. User-Login/3. input_Password'), 'red123')
 
 WebUI.click(findTestObject('1. User-Login/6.  login-button'))
 
-WebUI.verifyTextPresent('colleen@aol.com', false)
+WebUI.verifyTextPresent('colleen@aol.com', false) //Breakpoint 2: Verify message
 
 WebUI.click(findTestObject('1. User-Login/7. a_Log out'))
 

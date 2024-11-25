@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
+WebUI.navigateToUrl('https://demowebshop.tricentis.com/') //Breakpoint 1: Verify url is loaded
 
 WebUI.click(findTestObject('1. User-Login/1. a_Log in'))
 
@@ -29,7 +29,7 @@ WebUI.setText(findTestObject('1. User-Login/8. input_Your email address'), 'baba
 
 WebUI.click(findTestObject('1. User-Login/9. recover-send-email-btn'))
 
-WebUI.verifyTextPresent('Email with instructions has been sent to you.', false)
+WebUI.verifyTextPresent('Email with instructions has been sent to you.', false) //Breakpoint 2: Verify error message
 
 WebUI.closeBrowser()
 

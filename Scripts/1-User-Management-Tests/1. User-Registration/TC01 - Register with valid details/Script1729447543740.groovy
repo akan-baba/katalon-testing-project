@@ -32,16 +32,19 @@ String email = ((firstName.toLowerCase() + '.') + lastName.toLowerCase()) + '@ex
 WebUI.openBrowser('')
 
 // Navigate to the registration page
-WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
+WebUI.navigateToUrl('https://demowebshop.tricentis.com/' //Breakpoint 1: Ensure the correct URL loads
+    )
 
 // Click on the register link/button
-WebUI.click(findTestObject('2. User-Registration/1. a_Register'))
+WebUI.click(findTestObject('2. User-Registration/1. a_Register' //  Breakpoint 2
+        ))
 
 // Select gender (you can modify this part based on the actual selector for male/female)
 WebUI.click(findTestObject('2. User-Registration/2. input_Gender'))
 
 // Set randomly generated first name
-WebUI.setText(findTestObject('2. User-Registration/4. input_First name'), firstName)
+WebUI.setText(findTestObject('2. User-Registration/4. input_First name'), firstName //  Breakpoint 3: Verify input field is filled out
+    )
 
 // Set randomly generated last name
 WebUI.setText(findTestObject('2. User-Registration/5. input_Last name'), lastName)
@@ -58,7 +61,8 @@ WebUI.setText(findTestObject('2. User-Registration/8. input_Confirm password'), 
 // Click on the register button
 WebUI.click(findTestObject('2. User-Registration/9. input__register-button'))
 
-WebUI.verifyTextPresent('Your registration completed', false)
+WebUI.verifyTextPresent('Your registration completed', false // Breakpoint 4: Verify registration is complete
+    )
 
 WebUI.closeBrowser()
 
