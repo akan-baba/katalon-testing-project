@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC81 - Verify successful logout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>93481d7a-701e-4ce9-b0d6-8621abd2a5c8</testCaseGuid>
+</TestCaseEntity>

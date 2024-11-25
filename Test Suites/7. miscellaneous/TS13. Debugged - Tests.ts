@@ -32,4 +32,18 @@
       <testCaseId>Test Cases/9 - Debugged - Test Scripts/TC80 - desktop-checkout-as-guest-creditCard</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>c4dce899-6f0f-4a97-aa95-ee6a2d0cc3b9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/9 - Debugged - Test Scripts/TC81 - Verify successful logout</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>adfe72f6-ef32-4f8d-a28e-69166f7f53ed</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/9 - Debugged - Test Scripts/TC81_Wishlist_DressAdded_Item</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

@@ -33,7 +33,7 @@ String email = 'colleen@aol.com'
 WebUI.setText(findTestObject('1. User-Login/2. input_Email'), email)
 
 // Input the password
-WebUI.waitForElementVisible(findTestObject('1. User-Login/3. input_Password'), 10) // Breakpoint - 2
+WebUI.waitForElementVisible(findTestObject('1. User-Login/3. input_Password'), 10) //Breakpoint 2: Waits for password input.
 String password = 'red123'
 WebUI.setText(findTestObject('1. User-Login/3. input_Password'), password)
 
@@ -43,7 +43,7 @@ WebUI.click(findTestObject('1. User-Login/6.  login-button'))
 
 // Verify the email is displayed on the page after successful login
 WebUI.waitForPageLoad(10)
-WebUI.verifyTextPresent(email, false) //Breakpoint 3: Verify error message
+WebUI.verifyTextPresent(email, false) //Breakpoint 3: Verifies the presence of the email after login.
 
 // Log out of the application
 WebUI.waitForElementClickable(findTestObject('1. User-Login/7. a_Log out'), 10)

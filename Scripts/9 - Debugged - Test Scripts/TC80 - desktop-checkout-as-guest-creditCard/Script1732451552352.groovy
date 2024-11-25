@@ -59,7 +59,7 @@ WebUI.selectOptionByValue(findTestObject('3. Computers/Desktop/7. select_Select 
 WebUI.click(findTestObject('3. Computers/Desktop/8. input_termsofservice'))
 
 // Proceed to checkout
-WebUI.click(findTestObject('3. Computers/Desktop/9. button_Checkout')) // Breakpoint 9: Verify navigation to checkout page
+WebUI.click(findTestObject('3. Computers/Desktop/9. button_Checkout')) // Breakpoint 9: Verify navigation to checkout page.
 
 // Call the test case for the payment process
 WebUI.callTestCase(findTestCase('CallTestCases/1. CheckoutasGuestPageCreditCard'), [:], FailureHandling.STOP_ON_FAILURE) // 
