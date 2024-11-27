@@ -127,5 +127,15 @@
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/7. miscellaneous/TS12. Tests with Custom-Keywords</testSuiteEntity>
       </TestSuiteRunConfiguration>
+      <TestSuiteRunConfiguration>
+         <configuration>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>true</requireConfigurationData>
+            <runConfigurationId>TestCloud</runConfigurationId>
+         </configuration>
+         <runEnabled>true</runEnabled>
+         <testSuiteEntity>Test Suites/7. miscellaneous/TS13. Debugged - Tests</testSuiteEntity>
+      </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

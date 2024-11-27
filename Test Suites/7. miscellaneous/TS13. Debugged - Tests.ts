@@ -12,38 +12,45 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>e58e2752-0a7d-432e-9bf4-fb8031c0a4de</testSuiteGuid>
    <testCaseLink>
-      <guid>0d8215c2-01a1-4f41-9a9c-f8934bc7bc0a</guid>
+      <guid>6f8ee07f-a314-4361-ba0c-7062320832d2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/9 - Debugged - Test Scripts/TC78 - Login with valid credentials</testCaseId>
+      <testCaseId>Test Cases/9 - Debugged - Tests/TC78 - UserLogin</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d2c9ed69-d4ed-4b6e-a659-4d7041a9f2f3</guid>
+      <guid>507fe528-9b74-4530-82c9-2df11668a979</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/9 - Debugged - Test Scripts/TC79 - Forgot password</testCaseId>
+      <testCaseId>Test Cases/9 - Debugged - Tests/TC80 - Register with valid details</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>8b79916e-6a4a-41b2-b85a-945473b61600</guid>
+      <guid>96c27d24-4b5e-41f1-ac58-228e559fc0fd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/9 - Debugged - Test Scripts/TC80 - desktop-checkout-as-guest-creditCard</testCaseId>
+      <testCaseId>Test Cases/9 - Debugged - Tests/TC81 - Register with a blank email</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>c4dce899-6f0f-4a97-aa95-ee6a2d0cc3b9</guid>
+      <guid>d9df82c7-92d6-40a6-8586-ef70628238c6</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/9 - Debugged - Test Scripts/TC81 - Verify successful logout</testCaseId>
+      <testCaseId>Test Cases/9 - Debugged - Tests/TC82 - desktop-checkout-as-guest-creditCard</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>adfe72f6-ef32-4f8d-a28e-69166f7f53ed</guid>
+      <guid>2ac6a531-3c7d-47a9-b1e9-3afb02ec7281</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/9 - Debugged - Test Scripts/TC81_Wishlist_DressAdded_Item</testCaseId>
+      <testCaseId>Test Cases/9 - Debugged - Tests/TC83 - Wishlist_DressAdded_Item</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>76751e34-2154-4d39-b33e-1edd62d4eb44</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/9 - Debugged - Tests/TC84 - Contact Us</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

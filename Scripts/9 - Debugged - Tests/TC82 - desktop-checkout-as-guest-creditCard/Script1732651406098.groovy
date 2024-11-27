@@ -19,23 +19,31 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://demowebshop.tricentis.com/') //Breakpoint 1: Ensures the correct URL loads.
+WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
-WebUI.click(findTestObject('7. Apparel - Shoes/1. a_Apparel  Shoes'))
+WebUI.mouseOver(findTestObject('3. Computers/Desktop/1. a_Computers'))
 
-WebUI.click(findTestObject('7. Apparel - Shoes/2. imgRockabillyDress'))
+WebUI.click(findTestObject('3. Computers/Desktop/2. a_Desktops'))
 
-WebUI.click(findTestObject('a10. Wishlist/1. add-to-wishlist-button-5'))
+WebUI.click(findTestObject('3. Computers/Desktop/3. add-to-cart-button'))
 
-WebUI.click(findTestObject('a10. Wishlist/4. span_Wishlist'))
+WebUI.click(findTestObject('3. Computers/Desktop/HDD/320GB-attribute_72_3_20'))
 
-'Verification that dress has been add to the wishlist'
-WebUI.verifyTextPresent('50\'s Rockabilly Polka Dot Top JR Plus Size', false) //Breakpoint 2: Verifies the presence of text.
+WebUI.click(findTestObject('3. Computers/Desktop/processor/medium-attribute_72_5_18'))
 
-WebUI.click(findTestObject('a10. Wishlist/5. Remove_removefromcart'))
+WebUI.click(findTestObject('3. Computers/Desktop/RAM/4GB-attribute_72_6_19'))
 
-WebUI.click(findTestObject('a10. Wishlist/5. Qty_updatecart'))
+WebUI.setText(findTestObject('3. Computers/Desktop/4. enteredQuantity'), '2')
 
-'Verification that dress has been removed from wishlist'
-WebUI.verifyTextNotPresent('50\'s Rockabilly Polka Dot Top JR Plus Size', false) //Breakpoint 2: Verifies the presence of text.
+WebUI.click(findTestObject('3. Computers/Desktop/5. add-to-cart-button-72'))
+
+WebUI.click(findTestObject('3. Computers/Desktop/6. span_Shopping cart'))
+
+WebUI.selectOptionByValue(findTestObject('3. Computers/Desktop/7. select_Select country'), '80', false)
+
+WebUI.click(findTestObject('3. Computers/Desktop/8. input_termsofservice'))
+
+WebUI.click(findTestObject('3. Computers/Desktop/9. button_Checkout'))
+
+WebUI.callTestCase(findTestCase('CallTestCases/1. CheckoutasGuestPageCreditCard'), [:], FailureHandling.STOP_ON_FAILURE)
 

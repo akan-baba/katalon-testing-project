@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC80 - desktop-checkout-as-guest-creditCard</name>
+   <name>TC83 - Wishlist_DressAdded_Item</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>47216cd4-8b6d-4e30-b227-596ad747cb3e</testCaseGuid>
+   <testCaseGuid>c23b8f57-cc74-4305-9570-15445b6502b7</testCaseGuid>
 </TestCaseEntity>

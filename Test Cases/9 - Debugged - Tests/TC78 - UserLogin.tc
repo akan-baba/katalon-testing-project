@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC78 - Login with valid credentials</name>
+   <name>TC78 - UserLogin</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>b08724da-3020-49d3-8c92-abde9b001e14</testCaseGuid>
+   <testCaseGuid>967d21f0-dbd0-41d9-b30a-016a846ef661</testCaseGuid>
 </TestCaseEntity>

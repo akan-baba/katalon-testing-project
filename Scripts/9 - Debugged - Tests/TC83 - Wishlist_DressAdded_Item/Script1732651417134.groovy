@@ -19,20 +19,23 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://demowebshop.tricentis.com/') //Breakpoint 1: Verify url is loaded
+WebUI.navigateToUrl('https://demowebshop.tricentis.com/')
 
-// Click on the register link/button
-WebUI.click(findTestObject('1. User-Login/1. a_Log in'))
+WebUI.click(findTestObject('7. Apparel - Shoes/1. a_Apparel  Shoes'))
 
-WebUI.setText(findTestObject('1. User-Login/2. input_Email'), 'colleen@aol.com')
+WebUI.click(findTestObject('7. Apparel - Shoes/2. imgRockabillyDress'))
 
-WebUI.setText(findTestObject('1. User-Login/3. input_Password'), 'red123')
+WebUI.click(findTestObject('a10. Wishlist/1. add-to-wishlist-button-5'))
 
-WebUI.click(findTestObject('1. User-Login/6.  login-button'))
+WebUI.click(findTestObject('a10. Wishlist/4. span_Wishlist'))
 
-WebUI.click(findTestObject('1. User-Login/7. a_Log out')) 
+'Verification that dress has been add to the wishlist'
+WebUI.verifyTextPresent('50\'s Rockabilly Polka Dot Top JR Plus Size', false)
 
-WebUI.verifyTextPresent('Register', false) //Breakpoint 2: Verifies the presence of message
+WebUI.click(findTestObject('a10. Wishlist/5. Remove_removefromcart'))
 
+WebUI.click(findTestObject('a10. Wishlist/5. Qty_updatecart'))
 
+'Verification that dress has been removed from wishlist'
+WebUI.verifyTextNotPresent('50\'s Rockabilly Polka Dot Top JR Plus Size', false)
 

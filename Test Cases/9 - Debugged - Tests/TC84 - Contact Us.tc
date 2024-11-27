@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC79 - Forgot password</name>
+   <name>TC84 - Contact Us</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>4d62d7df-cb7c-4ad3-a2cf-e6c0946cc23f</testCaseGuid>
+   <testCaseGuid>8fecd351-3304-4b28-8ddb-18c4f3920962</testCaseGuid>
 </TestCaseEntity>

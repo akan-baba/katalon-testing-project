@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC81 - Verify successful logout</name>
+   <name>TC82 - desktop-checkout-as-guest-creditCard</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>93481d7a-701e-4ce9-b0d6-8621abd2a5c8</testCaseGuid>
+   <testCaseGuid>41bc4b3f-2805-457e-ae27-96d280f9fadf</testCaseGuid>
 </TestCaseEntity>

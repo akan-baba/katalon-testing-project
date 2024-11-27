@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC81_Wishlist_DressAdded_Item</name>
+   <name>TC81 - Register with a blank email</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>a15c2647-b6e3-4095-8fcd-426514e46d3e</testCaseGuid>
+   <testCaseGuid>cb7814d6-c6a1-4a8c-bd38-ddc6978241f9</testCaseGuid>
 </TestCaseEntity>
