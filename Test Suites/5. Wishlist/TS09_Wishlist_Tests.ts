@@ -15,14 +15,14 @@
       <guid>bce4eaed-ffc7-4b95-9de2-fe2560795b20</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/5-Wishlist-Tests/TC54_Wishlist_DressAdded_Item</testCaseId>
+      <testCaseId>Test Cases/5 - Wishlist-Tests/TC54_Wishlist_DressAdded_Item</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>dc59382a-8692-4d25-bb66-f69bf4879289</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/5-Wishlist-Tests/TC55_Wishlist_ShoeAdded_Item</testCaseId>
+      <testCaseId>Test Cases/5 - Wishlist-Tests/TC55_Wishlist_ShoeAdded_Item</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
